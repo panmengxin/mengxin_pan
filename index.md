@@ -16,7 +16,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
         </div>
     </div>
 <!-- In your paragraph, link to it using #opportunities -->
-<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 15px 15px;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada. <a href="#opportunities">See more details in opportunities</a>.</p>
+<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 15px 15px;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada. See more details in <a href="#opportunities">opportunities</a>.</p>
     <!-- Research Section -->
     <h2 style="font-size: clamp(24px, 4vw, 32px); color: #333; margin: 25px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
     
@@ -34,17 +34,20 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     </div>
 
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 15px 0;">Regarding ARs as the bridge, I study how large-scale climate variability modulates mid-latitude extreme weather in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
-
+    
     <!-- First Image Set -->
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+    <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018WR024407" target="_blank">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_algorithm.png?raw=true" 
              alt="PanLu AR algorithm" 
              style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
+    </a>
+    <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL089477" target="_blank">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Figure2_annual_cycle_SOM_C8.png?raw=true" 
              alt="Redefine East Asia AR by Self-organizing Map" 
              style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
-    </div>
-
+    </a>
+</div>
     <!-- Second Image Set -->
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/cross_Pacific_AR.png?raw=true" 
