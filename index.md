@@ -10,12 +10,19 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
         <p>I will join the Department of Geography at <a href="https://www.sfu.ca/" target="_blank"><strong>Simon Fraser University</strong></a> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
     </div>
     <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" 
-         width="400" 
-         height="400" 
-         style="margin-left: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-         alt="Dr. Mengxin Pan"> <!-- Added image enhancements -->
+         style="margin-left: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);max-width: 45%; object-fit: contain;"
+         > <!-- Added image enhancements -->
 </div>
 
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/cross_Pacific_AR.png?raw=true" 
+         alt="Diversity of cross-Pacific AR main route" 
+         style="max-width: 45%; object-fit: contain;">
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/long-term_trend_of_AR.png?raw=true" 
+         alt="Historical trend of Northern Hemisphere AR during 1950-2022" 
+         style="max-width: 45%; object-fit: contain;">
+</div>
 
   I am seeking Master’s and Ph.D. students to join my **"Climate and Weather Extremes Lab"** in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
 
@@ -32,7 +39,7 @@ Atmospheric rivers (ARs), “the rivers in the sky”, are long, narrow, and tra
          style="max-width: 90%; object-fit: contain;">
 </div>
 
-Regarding ARs as the bridge, I study how large-scale climate variability modulates mid-latitude extreme weather in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.
+    Regarding ARs as the bridge, I study how large-scale climate variability modulates mid-latitude extreme weather in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_algorithm.png?raw=true" 
