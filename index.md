@@ -5,23 +5,13 @@ feature_text: |
 feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=800&h=400&m=6"
 ---
 
-<div style="display: flex; align-items: start; max-width: 1400px; margin: 0 auto;">
-    <div style="font-size: 18px; flex: 1; margin-right: 30px;"> <!-- Added margin-right for better spacing -->
-        <p>I will join the Department of Geography at <a href="https://www.sfu.ca/" target="_blank"><strong>Simon Fraser University</strong></a> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
-    </div>
-    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" 
-         style="margin-left: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);max-width: 45%; object-fit: contain;"
-         > <!-- Added image enhancements -->
-</div>
-
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/cross_Pacific_AR.png?raw=true" 
-         alt="Diversity of cross-Pacific AR main route" 
-         style="max-width: 45%; object-fit: contain;">
-    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/long-term_trend_of_AR.png?raw=true" 
-         alt="Historical trend of Northern Hemisphere AR during 1950-2022" 
-         style="max-width: 45%; object-fit: contain;">
+<div style="display: flex; align-items: start; max-width: 1200px; margin: 0 auto; flex-wrap: wrap;"> 
+   <div style="font-size: 18px; flex: 1; min-width: 300px;">
+       <p style="margin-bottom: 20px;">I will join the Department of Geography at <strong>Simon Fraser University</strong> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
+   </div>
+   <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" 
+        style="max-width: 380px; width: 100%; height: auto; margin: 20px auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+        alt="Dr. Mengxin Pan">
 </div>
 
   I am seeking Master’s and Ph.D. students to join my **"Climate and Weather Extremes Lab"** in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
