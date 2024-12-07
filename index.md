@@ -33,7 +33,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
              style="max-width: 90%; height: auto;">
     </div>
 
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 15px 0;">Regarding ARs as the bridge, I study how large-scale climate variability modulates mid-latitude extreme weather in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 15px 0;">Regarding ARs as the bridge, I study <strong>how large-scale climate variability modulates mid-latitude extreme weather in the warming climate</strong>. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
     
     <!-- First Image Set -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
@@ -62,11 +62,11 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
     <!-- Publications -->
     <div style="margin: 20px 0;">
-        <p style="font-size: 16px; margin-bottom: 10px;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> Submitted.</p>
-        <p style="font-size: 16px; margin-bottom: 10px;"><strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></p>
-        <p style="font-size: 16px; margin-bottom: 10px;"><strong>Pan, M.</strong>, & Lu, M. (2022). <em>Long-lead predictability of western north Pacific subtropical high.</em> Journal of Geophysical Research: Atmospheres, 127(5), 2021JD035967. <a href="https://doi.org/10.1029/2021JD035967">[Link]</a></p>
-        <p style="font-size: 16px; margin-bottom: 10px;"><strong>Pan, M.</strong>, & Lu, M. (2020). <em>East Asia atmospheric river catalog: annual cycle, transition mechanism, and precipitation.</em> Geophysical Research Letters, 47(15), e2020GL089477. <a href="https://doi.org/10.1029/2020GL089477">[Link]</a></p>
-        <p style="font-size: 16px; margin-bottom: 10px;"><strong>Pan, M.</strong>, & Lu, M. (2019). <em>A novel atmospheric river identification algorithm.</em> Water Resources Research, 55(7), 6069-6087. <a href="https://doi.org/10.1029/2018WR024407">[Link]</a></p>
+        <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> Submitted.</p>
+        <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></p>
+        <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, & Lu, M. (2022). <em>Long-lead predictability of western north Pacific subtropical high.</em> Journal of Geophysical Research: Atmospheres, 127(5), 2021JD035967. <a href="https://doi.org/10.1029/2021JD035967">[Link]</a></p>
+        <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, & Lu, M. (2020). <em>East Asia atmospheric river catalog: annual cycle, transition mechanism, and precipitation.</em> Geophysical Research Letters, 47(15), e2020GL089477. <a href="https://doi.org/10.1029/2020GL089477">[Link]</a></p>
+        <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, & Lu, M. (2019). <em>A novel atmospheric river identification algorithm.</em> Water Resources Research, 55(7), 6069-6087. <a href="https://doi.org/10.1029/2018WR024407">[Link]</a></p>
     </div>
 
     <!-- Climate Change and Society Section -->
@@ -76,9 +76,9 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
     <!-- Publications -->
     <div style="margin: 20px 0;">
-        <p style="font-size: 16px; margin-bottom: 10px;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Beyond ENSO: Harnessing tropical ocean in long-lead vector-borne disease prediction.</em> Submitted.</p>
-        <p style="font-size: 16px; margin-bottom: 10px;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak.</em> In prep.</p>
-        <p style="font-size: 16px; margin-bottom: 10px;"><strong>Pan, M.</strong>, Wang, Y., Hu, S., & Au, F. T. K. <em>Extremely High Temperature Threatens Global Bridges under Climate Change.</em> In prep.</p>
+        <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Beyond ENSO: Harnessing tropical ocean in long-lead vector-borne disease prediction.</em> Submitted.</p>
+        <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak.</em> In prep.</p>
+        <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, Wang, Y., Hu, S., & Au, F. T. K. <em>Extremely High Temperature Threatens Global Bridges under Climate Change.</em> In prep.</p>
     </div>
 
     <!-- Opportunities Section -->
