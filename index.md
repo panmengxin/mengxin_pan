@@ -2,12 +2,11 @@
 title: About Me
 feature_text: |
   ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  Facing climate change challenges with scientific knowledge and practical solutions
+feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=768&h=336&m=6"
 ---
 
-Hello, I am Mengxin Pan. In Jan 2025, I will join the Department of Geography at Simon Fraser University as a tenure-track assistant professor and build up the ”Climate and Weather Extremes Lab”. I am seeking Master’s and Ph.D. students to join my group in Fall 2025 or Spring/Fall 2026. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
+Hello, I am Mengxin Pan. In Jan 2025, I will join the Department of Geography at Simon Fraser University as a **tenure-track assistant professor** and build up the **”Climate and Weather Extremes Lab”**. I am seeking Master’s and Ph.D. students to join my group in Fall 2025 or Spring/Fall 2026. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
