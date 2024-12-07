@@ -1,7 +1,7 @@
 ---
 title: About Me
 feature_text: |
-  <h2 style="color: white; text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
+  <h2 style="color: white;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
 feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=768&h=336&m=6"
 ---
 
