@@ -34,11 +34,12 @@ The research theme is applied data science in climate science. Students from all
 
 
 ## How to Apply
-Please send your CV, personal/research statement, and academic transcripts to Dr. Mengxin Pan (mengxin_pan@sfu.ca or mengxin.pan@duke.edu).
-Prefer to admit students with prior connections, so early inquiries are strongly encouraged. 
-The official application deadline for Fall 2026 is Jan 2025, so please email me as soon as possible first.
-English proficiency scores or publications are not required for initial application.
+- Please send your CV, personal/research statement, and academic transcripts to Dr. Mengxin Pan (mengxin.pan@duke.edu).
+- Prefer to admit students with prior connections, so early inquiries are strongly encouraged.
+- English proficiency scores or publications are not required for initial application.
+- The official application deadline for Fall 2026 is **Jan 2025**, so please email me as soon as possible first.
 
+(See details [here](https://bawejakunal.github.io/](https://www.sfu.ca/geography/prospective-students/prospective-graduate.html) for more information on the application procedure).
 
 
 
