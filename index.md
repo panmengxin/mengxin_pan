@@ -5,20 +5,20 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 ---
 
 <div style="display: flex; align-items: start; max-width: 1200px; margin: 0 auto; flex-wrap: wrap;"> 
-    <div style="font-size: 18px; flex: 1; min-width: 300px;">
-        <h1 style="font-size: 28px; margin-bottom: 20px; color: #333;">Mengxin Pan</h1>
-        <p style="margin-bottom: 20px;">I will join the Department of Geography at <strong>Simon Fraser University</strong> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
-    </div>
-    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" 
-         style="max-width: 380px; width: 100%; height: auto; margin: 20px auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-         alt="Dr. Mengxin Pan">
+   <div style="font-size: 18px; flex: 1; min-width: 300px;">
+       <h1 style="font-size: 32px; margin-bottom: 20px; color: #333;">Mengxin Pan</h1>
+       <p style="margin-bottom: 20px;">I will join the <a href="https://www.sfu.ca/geography.html" target="_blank">Department of Geography</a> at <a href="https://www.sfu.ca" target="_blank">Simon Fraser University</a> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
+   </div>
+   <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" 
+        style="max-width: 380px; width: 100%; height: auto; margin: 20px auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+        alt="Dr. Mengxin Pan">
 </div>
 
   I am seeking Master’s and Ph.D. students to join my **"Climate and Weather Extremes Lab"** in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
 
 
 <h2 style="font-size: 32px; color: #333; margin-bottom: 20px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
-My research combines advanced data mining techniques with climate dynamics to address real-world problems, with two interconnected objectives. First, **advancing the fundamental insight of climate and weather extremes**, with specific interests in **Atmospheric Rivers** and their changes in a warming climate. Second, **bridging the physical and social dimensions in facing climate change challenges**. I am leading interdisciplinary research connecting Climate Dynamics with **Global Health** and **Civil Engineering** (e.g., involving tropical ocean variability in the vector-borne disease prediction and assessing the resilience of global bridges under the ongoing global warming).
+My research combines advanced data mining techniques with climate dynamics to address real-world problems, with two interconnected objectives. First, **advancing the fundamental insight of climate and weather extremes**, with specific interests in **Atmospheric Rivers** and their changes in a warming climate. Second, **bridging the physical and social dimensions in facing climate change challenges**.
 
 <h3 style="font-size: 24px; color: #444;">1). Extreme weather under climate change </h3>
 Atmospheric rivers (ARs), “the rivers in the sky”, are long, narrow, and transient corridors with intensive moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems and human water resources, while the landfall of extreme ARs also bring life-threatening extreme weathers.
