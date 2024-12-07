@@ -22,7 +22,7 @@ My research combines advanced data mining techniques with climate science to add
 <h2 style="font-size: 32px; color: #333; margin-bottom: 20px; border-bottom: 2px solid #75bbfd;">Fully funded Master's and PhD opportunities</h2>
 I am seeking Master’s and Ph.D. students to join my **"Climate and Weather Extremes Lab"** in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
 
-The research theme is applied data science in climate science. Students from all climate science and data science backgrounds are welcome, including climate dynamics, atmospheric science, oceanography, physics, or related disciplines. Students from diverse backgrounds who are interested in interdisciplinary research are also welcome, including but not limited in statistics, global health, social science, and civil engineering. 
+The research theme is **applied data science in climate science**. Students from all climate science and data science backgrounds are welcome, including climate dynamics, atmospheric science, oceanography, physics, or related disciplines. Students from diverse backgrounds who are interested in interdisciplinary research are also welcome, including but not limited in statistics, global health, social science, and civil engineering. 
 
 <h3 style="font-size: 24px; color: #444;">Qualifications</h3>
 - Bachelor's degree (for Master's applicants) or Master's degree (for Ph.D. applicants); 
@@ -35,8 +35,6 @@ The research theme is applied data science in climate science. Students from all
 - Prefer to admit students with prior connections, so early inquiries are strongly encouraged.
 - English proficiency scores or publications are not required for initial application.
 - The official application deadline for Fall 2026 is <span style="color: #FF0000;">**Jan**</span>, so please email me as soon as possible first.
-
-
 (See details **[here](https://www.sfu.ca/geography/prospective-students/prospective-graduate.html)** for more information on the application procedure).
 
 
