@@ -39,7 +39,7 @@ The research theme is applied data science in climate science. Students from all
 - English proficiency scores or publications are not required for initial application.
 - The official application deadline for Fall 2026 is **Jan 2025**, so please email me as soon as possible first.
 
-(See details [here](https://bawejakunal.github.io/](https://www.sfu.ca/geography/prospective-students/prospective-graduate.html) for more information on the application procedure).
+(See details **[here](https://bawejakunal.github.io/](https://www.sfu.ca/geography/prospective-students/prospective-graduate.html)** for more information on the application procedure).
 
 
 
