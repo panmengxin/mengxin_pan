@@ -23,8 +23,7 @@ My research combines advanced data mining techniques with climate science to add
 <h3 style="font-size: 24px; color: #444;">1). Extreme weather under climate change </h3>
 Atmospheric rivers (ARs), “the rivers in the sky”, are long, narrow, and transient corridors with intensive horizontal moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems, agricultural production, and human water resources, while the landfall of extreme ARs also bring extreme weather conditions. 
 
-<div style="font-size: 14px;">
-• **Pan, M.**, Hu, S. Zaitchik, B. & Pan, W.K. *Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere*. Submitted.
+- <p style="font-size: 14px;">**Pan, M.**, Hu, S. Zaitchik, B. & Pan, W.K. *Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere*. Submitted.</p>
 • **Pan, M.**, Lu, M. & Lall, U. (2024). *Diversity of cross-Pacific Atmospheric River Main Routes*. Communications Earth & Environment, 5, 378. [Link](https://doi.org/10.1038/s43247-024-01552-y) 
 • **Pan, M.**, & Lu, M. (2022). *Long-lead predictability of western north Pacific subtropical high*. Journal of Geophysical Research: Atmospheres, 127(5), 2021JD035967.[Link](https://doi.org/10.1029/2021JD035967)
 • **Pan, M.**, & Lu, M. (2020). *East Asia atmospheric river catalog: annual cycle, transition mechanism, and precipitation*. Geophysical Research Letters, 47(15), e2020GL089477. [Link](https://doi.org/10.1029/2020GL089477)
