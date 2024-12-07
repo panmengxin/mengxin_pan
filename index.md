@@ -50,9 +50,11 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 </div>
     <!-- Second Image Set -->
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+      <a href="https://www.nature.com/articles/s43247-024-01552-y" target="_blank">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/cross_Pacific_AR.png?raw=true" 
              alt="Diversity of cross-Pacific AR main route" 
              style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
+        </a>
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/long-term_trend_of_AR.png?raw=true" 
              alt="Historical trend of Northern Hemisphere AR during 1950-2022" 
              style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
