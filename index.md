@@ -22,17 +22,19 @@ My research combines advanced data mining techniques with climate science to add
 <h3 style="font-size: 24px; color: #444;">1). Extreme weather under climate change </h3>
 Atmospheric rivers (ARs), “the rivers in the sky”, are long, narrow, and transient corridors with intensive horizontal moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems, agricultural production, and human water resources, while the landfall of extreme ARs also bring extreme weather conditions. 
 
-- <p style="font-size: 16px;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. *Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere*. Submitted.</p>
-- <p style="font-size: 16px;"> <strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). *Diversity of cross-Pacific Atmospheric River Main Routes*. Communications Earth & Environment, 5, 378.</p>[Link](https://doi.org/10.1038/s43247-024-01552-y)
-- <p style="font-size: 16px;"> <strong>Pan, M.</strong>, & Lu, M. (2022). *Long-lead predictability of western north Pacific subtropical high*. Journal of Geophysical Research: Atmospheres, 127(5), 2021JD035967.</p>[Link](https://doi.org/10.1029/2021JD035967)
-- <p style="font-size: 16px;"> <strong>Pan, M.</strong>, & Lu, M. (2020). *East Asia atmospheric river catalog: annual cycle, transition mechanism, and precipitation*. Geophysical Research Letters, 47(15), e2020GL089477.</p>[Link](https://doi.org/10.1029/2020GL089477)
-- <p style="font-size: 16px;"> <strong>Pan, M.</strong>, & Lu, M. (2019). *A novel atmospheric river identification algorithm*. Water Resources Research, 55(7), 6069-6087.</p>[Link](https://doi.org/10.1029/2018WR024407)
+
+
+- <p style="font-size: 16px;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> Submitted.</p>
+- <p style="font-size: 16px;"> <strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378.<a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></p>
+- <p style="font-size: 16px;"> <strong>Pan, M.</strong>, & Lu, M. (2022). <em>Long-lead predictability of western north Pacific subtropical high.</em> Journal of Geophysical Research: Atmospheres, 127(5), 2021JD035967.<a href="https://doi.org/10.1029/2021JD035967">[Link]</a></p>
+- <p style="font-size: 16px;"> <strong>Pan, M.</strong>, & Lu, M. (2020). <em>East Asia atmospheric river catalog: annual cycle, transition mechanism, and precipitation.</em> Geophysical Research Letters, 47(15), e2020GL089477.<a href="https://doi.org/10.1029/2020GL089477"></p>
+- <p style="font-size: 16px;"> <strong>Pan, M.</strong>, & Lu, M. (2019). <em>A novel atmospheric river identification algorithm.</em> Water Resources Research, 55(7), 6069-6087.<a href="https://doi.org/10.1029/2018WR024407"></p>
 
 
 <h3 style="font-size: 24px; color: #444;">2). Climate Change and Society </h3>
-- <p style="font-size: 16px;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. *Beyond ENSO: Harnessing tropical ocean in long-lead vector-borne disease prediction*. Submitted.</p>
-- <p style="font-size: 16px;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. *Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak*. In prep.</p>
-- <p style="font-size: 16px;"><strong>Pan, M.</strong>, Wang, Y., Hu, S., & Au, F. T. K. Extremely High Temperature Threatens Global Bridges under Climate Change*. In prep.</p>
+- <p style="font-size: 16px;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Beyond ENSO: Harnessing tropical ocean in long-lead vector-borne disease prediction.</em> Submitted.</p>
+- <p style="font-size: 16px;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak.</em> In prep.</p>
+- <p style="font-size: 16px;"><strong>Pan, M.</strong>, Wang, Y., Hu, S., & Au, F. T. K. <em>Extremely High Temperature Threatens Global Bridges under Climate Change.</em> In prep.</p>
 
 
 <h2 style="font-size: 32px; color: #333; margin-bottom: 20px; border-bottom: 2px solid #75bbfd;">Fully funded Master's and PhD opportunities</h2>
