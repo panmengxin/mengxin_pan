@@ -11,32 +11,33 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
             style="max-width: 400px; width: 100%; height: auto; margin: 10px 20px 15px 0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
             alt="Dr. Mengxin Pan">
         <div style="flex: 1; min-width: 300px;">
-            <h1 style="font-size: clamp(28px, 5vw, 32px); margin-bottom: 15px; color: #333;">Mengxin Pan</h1>
+            <h1 style="font-size: clamp(28px, 5vw, 32px); margin-top: 30px; margin-bottom: 15px; color: #333;">Mengxin Pan</h1>
             <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px; margin-left: 10px;">I will join the <a href="https://www.sfu.ca/geography.html" target="_blank">Department of Geography</a> at <a href="https://www.sfu.ca" target="_blank">Simon Fraser University</a> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
         </div>
     </div>
 <!-- In your paragraph, link to it using #opportunities -->
-<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 15px 15px;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada. See more details in <a href="#opportunities">opportunities</a>.</p>
-    <!-- Research Section -->
-    <h2 style="font-size: clamp(24px, 4vw, 32px); color: #333; margin: 25px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
+<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 5px 15px;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada. See more details in <a href="#opportunities">opportunities</a>.</p>
     
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 20px;">My research combines advanced data mining techniques with climate dynamics to address real-world problems, with two interconnected objectives. First, <strong>advancing the fundamental insight of climate and weather extremes</strong>, with specific interests in <strong>Atmospheric Rivers</strong> and their changes in a warming climate. Second, <strong>bridging the physical and social dimensions in facing climate change challenges</strong>.</p>
+  <!-- Research Section -->
+    <h2 style="font-size: clamp(24px, 4vw, 32px); color: #333; margin: 5px 0 10px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
+    
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 0px;">My research combines advanced data mining techniques with climate dynamics to address real-world problems, with two interconnected objectives. First, <strong>advancing the fundamental insight of climate and weather extremes</strong>, with specific interests in <strong>Atmospheric Rivers</strong> and their changes in a warming climate. Second, <strong>bridging the physical and social dimensions in facing climate change challenges</strong>.</p>
 
-    <h3 style="font-size: clamp(20px, 3vw, 24px); color: #444; margin: 20px 0 10px;">1). Extreme weather under climate change</h3>
+    <h3 style="font-size: clamp(20px, 3vw, 24px); color: #444; margin: 10px 0 10px;">1). Extreme weather under climate change</h3>
     
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 20px;">Atmospheric rivers (ARs), "the rivers in the sky", are long, narrow, and transient corridors with intensive moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems and human water resources, while the landfall of extreme ARs also bring life-threatening extreme weathers.</p>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 10px;">Atmospheric rivers (ARs), "the rivers in the sky", are long, narrow, and transient corridors with intensive moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems and human water resources, while the landfall of extreme ARs also bring life-threatening extreme weathers.</p>
 
     <!-- AR GIF -->
-    <div style="display: flex; justify-content: center; margin: 20px 0;">
+    <div style="display: flex; justify-content: center; margin: 10px 0;">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Canada_landfall_AR_events_JFM_1978-02-16%2014%3A00%3A00_17.gif?raw=true" 
              alt="Global AR Database" 
              style="max-width: 90%; height: auto;">
     </div>
 
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 15px 0;">Regarding ARs as the bridge, I study <strong>how large-scale climate variability modulates mid-latitude extreme weather in the warming climate</strong>. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;">Regarding ARs as the bridge, I study <strong>how large-scale climate variability modulates mid-latitude extreme weather in the warming climate</strong>. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
     
     <!-- First Image Set -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 10px 0;">
     <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018WR024407" target="_blank">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_algorithm.png?raw=true" 
              alt="PanLu AR algorithm" 
@@ -49,7 +50,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     </a>
 </div>
     <!-- Second Image Set -->
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 10px 0;">
       <a href="https://www.nature.com/articles/s43247-024-01552-y" target="_blank">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/cross_Pacific_AR.png?raw=true" 
              alt="Diversity of cross-Pacific AR main route" 
@@ -61,7 +62,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     </div>
 
     <!-- Publications -->
-    <div style="margin: 20px 0;">
+    <div style="margin: 10px 0;">
         <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> Submitted.</p>
         <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></p>
         <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, & Lu, M. (2022). <em>Long-lead predictability of western north Pacific subtropical high.</em> Journal of Geophysical Research: Atmospheres, 127(5), 2021JD035967. <a href="https://doi.org/10.1029/2021JD035967">[Link]</a></p>
@@ -70,31 +71,31 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     </div>
 
     <!-- Climate Change and Society Section -->
-    <h3 style="font-size: clamp(20px, 3vw, 24px); color: #444; margin: 20px 0 15px;">2). Climate Change and Society</h3>
+    <h3 style="font-size: clamp(20px, 3vw, 24px); color: #444; margin: 10px 0 15px;">2). Climate Change and Society</h3>
 
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 15px 0;">Starting from climate dynamics, I lead interdisciplinary collaborative studies about the climate impact in a warming world, providing holistic understanding and practical climate solutions. Collaborating with Global Health, I explore the overlooked role of tropical oceans in vector-borne disease prediction. Collaborating with Civil Engineering, I investigate the resilience of bridges in facing extreme temperatures under global warming.</p>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;">Starting from climate dynamics, I lead interdisciplinary collaborative studies about the climate impact in a warming world, providing holistic understanding and practical climate solutions. Collaborating with Global Health, I explore the overlooked role of tropical oceans in vector-borne disease prediction. Collaborating with Civil Engineering, I investigate the resilience of bridges in facing extreme temperatures under global warming.</p>
 
     <!-- Publications -->
-    <div style="margin: 20px 0;">
-        <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Beyond ENSO: Harnessing tropical ocean in long-lead vector-borne disease prediction.</em> Submitted.</p>
-        <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak.</em> In prep.</p>
-        <p style="font-size: 16px; margin-bottom: 0;"><strong>Pan, M.</strong>, Wang, Y., Hu, S., & Au, F. T. K. <em>Extremely High Temperature Threatens Global Bridges under Climate Change.</em> In prep.</p>
+    <div style="margin: 10px 0;">
+        <p style="font-size: 14px; margin-bottom: 0;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Beyond ENSO: Harnessing tropical ocean in long-lead vector-borne disease prediction.</em> Submitted.</p>
+        <p style="font-size: 14px; margin-bottom: 0;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak.</em> In prep.</p>
+        <p style="font-size: 14px; margin-bottom: 0;"><strong>Pan, M.</strong>, Wang, Y., Hu, S., & Au, F. T. K. <em>Extremely High Temperature Threatens Global Bridges under Climate Change.</em> In prep.</p>
     </div>
 
     <!-- Opportunities Section -->
-    <h2 id="opportunities" style="font-size: clamp(24px, 4vw, 32px); color: #333; margin: 25px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Fully funded Master's and PhD opportunities</h2>
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 15px 0;">The research theme is <strong>applied data science in climate science</strong>. Students from all climate science and data science backgrounds are welcome, including climate dynamics, atmospheric science, oceanography, physics, or related disciplines. Students from diverse backgrounds who are interested in interdisciplinary research are also welcome, including but not limited in statistics, global health, social science, and civil engineering.</p>
+    <h2 id="opportunities" style="font-size: clamp(24px, 4vw, 32px); color: #333; margin: 10px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Fully funded Master's and PhD opportunities</h2>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;">The research theme is <strong>applied data science in climate science</strong>. Students from all climate science and data science backgrounds are welcome, including climate dynamics, atmospheric science, oceanography, physics, or related disciplines. Students from diverse backgrounds who are interested in interdisciplinary research are also welcome, including but not limited in statistics, global health, social science, and civil engineering.</p>
 
-    <h3 style="font-size: clamp(20px, 3vw, 24px); color: #444; margin: 20px 0 10px;">Qualifications</h3>
-    <ul style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0 10px 20px;">
+    <h3 style="font-size: clamp(20px, 3vw, 24px); color: #444; margin: 10px 0 10px;">Qualifications</h3>
+    <ul style="font-size: clamp(16px, 3vw, 18px); line-height: 1.2; margin: 10px 0 10px 20px;">
         <li style="margin-bottom: 5px;">Bachelor's degree (for Master's applicants) or Master's degree (for Ph.D. applicants);</li>
         <li style="margin-bottom: 5px;">Strong interests in applied data science in climate science (Programming and data analysis proficiency is prefered);</li>
         <li style="margin-bottom: 5px;">Strong academic performance;</li>
         <li style="margin-bottom: 5px;">Demonstrated self-motivation, independence, and critical thinking ability;</li>
     </ul>
 
-    <h3 style="font-size: clamp(20px, 3vw, 24px); color: #444; margin: 20px 0 10px;">How to Apply</h3>
-    <ul style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0 10px 20px;">
+    <h3 style="font-size: clamp(20px, 3vw, 24px); color: #444; margin: 10px 0 10px;">How to Apply</h3>
+    <ul style="font-size: clamp(16px, 3vw, 18px); line-height: 1.2; margin: 10px 0 10px 20px;">
         <li style="margin-bottom: 5px;">Please send your CV, personal/research statement, and academic transcripts to mengxin.pan@duke.edu.</li>
         <li style="margin-bottom: 5px;">Prefer to admit students with prior connections, so early inquiries are strongly encouraged.</li>
         <li style="margin-bottom: 5px;">English proficiency scores or publications are not required for initial application.</li>
