@@ -1,7 +1,7 @@
 ---
 title: Mengxin Pan
 feature_text: |
-  <h2 style="color: white; font-size: 32px; text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
+  <h2 style="color: white; font-size: 28px; text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
 feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=800&h=400&m=6"
 ---
 <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" width="350" height="350" align="left" style="margin-right: 20px;">
@@ -11,7 +11,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
 ## Research
 
-My research combines advanced data mining techniques with climate science to address real-world problems, with two interconnected objectives. First, advancing the physical understanding of climate and weather extremes, with specific interests in the mechanism of Atmospheric Rivers and their changes under global warming. Second, bridging the physical and social dimensions in facing climate change challenges. I am leading interdisciplinary research connecting Climate Dynamics with Global Health and Civil Engineering. For example, involving tropical ocean variability in the vector-borne disease prediction in Latin America and assessing the resilience of global bridges under ongoing global warming.
+My research combines advanced data mining techniques with climate science to address real-world problems, with two interconnected objectives. First, **advancing the physical understanding of climate and weather extremes**, with specific interests in the mechanism of **Atmospheric Rivers** and their changes in a warming climate. Second, **bridging the physical and social dimensions in facing climate change challenges**. I am leading interdisciplinary research connecting Climate Dynamics with **Global Health** and **Civil Engineering**. For example, involving tropical ocean variability in the vector-borne disease prediction in Latin America and assessing the resilience of global bridges under the ongoing global warming.
 
 
 
