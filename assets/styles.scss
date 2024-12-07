@@ -4,3 +4,19 @@ styles: true
 ---
 
 @import "alembic";
+
+body {
+  line-height: 1.8;
+}
+
+.content {
+  line-height: 1.8;
+  p {
+    margin-bottom: 1.5em;
+  }
+}
+
+// This will affect all text in typeset areas
+.typeset {
+  line-height: 1.8;
+}
