@@ -5,18 +5,14 @@ feature_text: |
 feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=800&h=400&m=6"
 ---
 
-
 <img src="/assets/IMG_0099.jpg" width="300" height="300" align="left" style="margin-right: 20px;">
-        Hello, I am Mengxin Pan. In Jan 2025, I will join the Department of Geography at Simon Fraser University as a **tenure-track assistant professor** and build up the **"Climate and Weather Extremes Lab"**. I am seeking Master’s and Ph.D. students to join my group in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
-        
+  Hello, I am Mengxin Pan. In Jan 2025, I will join the Department of Geography at Simon Fraser University as a **tenure-track assistant professor** and build up the **"Climate and Weather Extremes Lab"**. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at Duke University. Before that, I got my Ph.D. from the Hong Kong University of Science and Technology (2021) and Bachelor’s degree from Southeast University (2016).
+  I am seeking Master’s and Ph.D. students to join my group in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
+
+## Research
+	My research combines advanced data mining techniques with climate science to address real-world problems, with two interconnected objectives. First, advancing the physical understanding of climate and weather extremes, with specific interests in the mechanism of Atmospheric Rivers and their changes under global warming. Second, bridging the physical and social dimensions in facing climate change challenges. I am leading interdisciplinary research connecting Climate Dynamics with Global Health and Civil Engineering. For example, involving tropical ocean variability in the vector-borne disease prediction in Latin America and assessing the resilience of global bridges under ongoing global warming.
 
 
-
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
-
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
-
-## Features
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
