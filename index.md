@@ -32,7 +32,7 @@ Atmospheric rivers (ARs), “the rivers in the sky”, are long, narrow, and tra
 </div>
 
 
-<h3 style="font-size: 24px; color: #444;">1). Climate Change and Society </h3>
+<h3 style="font-size: 24px; color: #444;">2). Climate Change and Society </h3>
 <div style="font-size: 14px;">
 • **Pan, M.**, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. *Beyond ENSO: Harnessing tropical ocean in long-lead vector-borne disease prediction*. Submitted.
 • **Pan, M.**, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. *Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak*. In prep.
