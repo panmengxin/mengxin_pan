@@ -10,7 +10,8 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
   I am seeking Master’s and Ph.D. students to join my group in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
 
 ## Research
-	My research combines advanced data mining techniques with climate science to address real-world problems, with two interconnected objectives. First, advancing the physical understanding of climate and weather extremes, with specific interests in the mechanism of Atmospheric Rivers and their changes under global warming. Second, bridging the physical and social dimensions in facing climate change challenges. I am leading interdisciplinary research connecting Climate Dynamics with Global Health and Civil Engineering. For example, involving tropical ocean variability in the vector-borne disease prediction in Latin America and assessing the resilience of global bridges under ongoing global warming.
+
+My research combines advanced data mining techniques with climate science to address real-world problems, with two interconnected objectives. First, advancing the physical understanding of climate and weather extremes, with specific interests in the mechanism of Atmospheric Rivers and their changes under global warming. Second, bridging the physical and social dimensions in facing climate change challenges. I am leading interdisciplinary research connecting Climate Dynamics with Global Health and Civil Engineering. For example, involving tropical ocean variability in the vector-borne disease prediction in Latin America and assessing the resilience of global bridges under ongoing global warming.
 
 
 
