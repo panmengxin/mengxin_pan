@@ -5,11 +5,15 @@ feature_text: |
 feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=800&h=400&m=6"
 ---
 
-<div style="display: flex; align-items: start;">
-    <div style="font-size: 18px; flex: 1;"> <!-- Added flex: 1 for text -->
-        <p>I will join the Department of Geography at Simon Fraser University as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
+<div style="display: flex; align-items: start; max-width: 1400px; margin: 0 auto;">
+    <div style="font-size: 18px; flex: 1; margin-right: 30px;"> <!-- Added margin-right for better spacing -->
+        <p>I will join the Department of Geography at <a href="https://www.sfu.ca/" target="_blank"><strong>Simon Fraser University</strong></a> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
     </div>
-    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" width="380" height="380" style="margin-left: 20px;"> <!-- Changed margin-right to margin-left -->
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" 
+         width="400" 
+         height="400" 
+         style="margin-left: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+         alt="Dr. Mengxin Pan"> <!-- Added image enhancements -->
 </div>
 
 
