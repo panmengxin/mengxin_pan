@@ -39,6 +39,14 @@ Regarding ARs as the bridge, I study how large-scale climate variability modulat
          style="max-width: 45%; object-fit: contain;">
 </div>
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/cross_Pacific_AR.png?raw=true" 
+         alt="Diversity of cross-Pacific AR main route" 
+         style="max-width: 45%; object-fit: contain;">
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/long-term_trend_of_AR.png?raw=true" 
+         alt="Historical trend of Northern Hemisphere AR during 1950-2022" 
+         style="max-width: 45%; object-fit: contain;">
+</div>
 
 - <p style="font-size: 16px;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> Submitted.</p>
 - <p style="font-size: 16px;"> <strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></p>
