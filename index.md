@@ -31,6 +31,15 @@ Atmospheric rivers (ARs), “the rivers in the sky”, are long, narrow, and tra
 - **Pan, M.**, & Lu, M. (2019). *A novel atmospheric river identification algorithm*. Water Resources Research, 55(7), 6069-6087. [Link](https://doi.org/10.1029/2018WR024407)
 </div>
 
+
+<h3 style="font-size: 24px; color: #444;">1). Climate Change and Society </h3>
+<div style="font-size: 14px;">  <!-- Adjust size as needed -->
+- **Pan, M.**, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. *Beyond ENSO: Harnessing tropical ocean in long-lead vector-borne disease prediction*. Submitted.
+- **Pan, M.**, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. *Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak*. In prep.
+- **Pan, M.**, Wang, Y., Hu, S., & Au, F. T. K. Extremely High Temperature Threatens Global Bridges under Climate Change*. In prep.
+</div>
+
+
 <h2 style="font-size: 32px; color: #333; margin-bottom: 20px; border-bottom: 2px solid #75bbfd;">Fully funded Master's and PhD opportunities</h2>
 I am seeking Master’s and Ph.D. students to join my **"Climate and Weather Extremes Lab"** in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
 
