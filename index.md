@@ -15,8 +15,8 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
   
   I am seeking Master’s and Ph.D. students to join my **"Climate and Weather Extremes Lab"** in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
 
-## Research & Publications
 
+<h2 style="font-size: 32px; color: #333; margin-bottom: 20px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
 My research combines advanced data mining techniques with climate science to address real-world problems, with two interconnected objectives. First, **advancing the physical understanding of climate and weather extremes**, with specific interests in the mechanism of **Atmospheric Rivers** and their changes in a warming climate. Second, **bridging the physical and social dimensions in facing climate change challenges**. I am leading interdisciplinary research connecting Climate Dynamics with **Global Health** and **Civil Engineering** (e.g., involving tropical ocean variability in the vector-borne disease prediction in Latin America and assessing the resilience of global bridges under the ongoing global warming).
 
 <h2 style="font-size: 32px; color: #333; margin-bottom: 20px; border-bottom: 2px solid #75bbfd;">Fully funded Master's and PhD opportunities</h2>
