@@ -19,7 +19,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
 My research combines advanced data mining techniques with climate science to address real-world problems, with two interconnected objectives. First, **advancing the physical understanding of climate and weather extremes**, with specific interests in the mechanism of **Atmospheric Rivers** and their changes in a warming climate. Second, **bridging the physical and social dimensions in facing climate change challenges**. I am leading interdisciplinary research connecting Climate Dynamics with **Global Health** and **Civil Engineering** (e.g., involving tropical ocean variability in the vector-borne disease prediction in Latin America and assessing the resilience of global bridges under the ongoing global warming).
 
-<h2 style="font-size: 32px; color: #333; margin-bottom: 20px; border-bottom: 2px solid #333;">Fully funded Master's and PhD opportunities</h2>
+<h2 style="font-size: 32px; color: #333; margin-bottom: 20px; border-bottom: 2px solid #75bbfd;">Fully funded Master's and PhD opportunities</h2>
 
 I am seeking Master’s and Ph.D. students to join my **"Climate and Weather Extremes Lab"** in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
 
@@ -32,10 +32,11 @@ The research theme is applied data science in climate science. Students from all
 - Demonstrated self-motivation, independence, and critical thinking ability;
 
 <h3 style="font-size: 24px; color: #444;">How to Apply</h3>
-- Please send your CV, personal/research statement, and academic transcripts to Dr. Mengxin Pan (mengxin.pan@duke.edu).
+- Please send your CV, personal/research statement, and academic transcripts to mengxin.pan@duke.edu.
 - Prefer to admit students with prior connections, so early inquiries are strongly encouraged.
 - English proficiency scores or publications are not required for initial application.
 - The official application deadline for Fall 2026 is **Jan 2025**, so please email me as soon as possible first.
+
 
 (See details **[here](https://www.sfu.ca/geography/prospective-students/prospective-graduate.html)** for more information on the application procedure).
 
