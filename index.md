@@ -7,7 +7,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
 <div style="display: flex; align-items: start;">
     <div style="font-size: 20px; flex: 1;"> <!-- Added flex: 1 for text -->
-        <p>I will join the Department of Geography at Simon Fraser University as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at Duke University. Before that, I got my Ph.D. from the Hong Kong University of Science and Technology (2021) and Bachelor's degree from Southeast University (2016).</p>
+        <p>I will join the Department of Geography at Simon Fraser University as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
     </div>
     <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" width="380" height="380" style="margin-left: 20px;"> <!-- Changed margin-right to margin-left -->
 </div>
