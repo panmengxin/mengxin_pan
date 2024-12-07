@@ -24,7 +24,7 @@ Atmospheric rivers (ARs), “the rivers in the sky”, are long, narrow, and tra
 
 <img src="path/to/your/animation.gif" alt="Description" width="500" height="300">
 
-Regarding ARs as the bridges, I study how large-scale climate variability modulate mid-latitude extreme weather in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, build up a global AR database, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific AR, and explore if we have experienced more ARs under the ongoing climate change and its underly mechanisms. 
+Regarding ARs as the bridge, I study how large-scale climate variability modulates mid-latitude extreme weather in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms. 
 
 
 
@@ -36,6 +36,10 @@ Regarding ARs as the bridges, I study how large-scale climate variability modula
 
 
 <h3 style="font-size: 24px; color: #444;">2). Climate Change and Society </h3>
+
+Starting from climate dynamics, I lead interdisciplinary collaborative studies about the climate impact in a warming world, providing holistic understanding and practical climate solutions. Collaborating with Global Health, I explore the overlooked role of tropical oceans in vector-borne disease prediction. Collaborating with Civil Engineering, I investigate the resilience of bridges in facing extreme temperatures under global warming.
+
+
 - <p style="font-size: 16px;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Beyond ENSO: Harnessing tropical ocean in long-lead vector-borne disease prediction.</em> Submitted.</p>
 - <p style="font-size: 16px;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak.</em> In prep.</p>
 - <p style="font-size: 16px;"><strong>Pan, M.</strong>, Wang, Y., Hu, S., & Au, F. T. K. <em>Extremely High Temperature Threatens Global Bridges under Climate Change.</em> In prep.</p>
