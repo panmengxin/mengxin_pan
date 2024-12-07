@@ -36,19 +36,32 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;">Regarding ARs as the bridge, I study <strong>how large-scale climate variability modulates mid-latitude extreme weather in the warming climate</strong>. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
     
-    <!-- First Image Set -->
+<!-- First Image Set -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 10px 0;">
-    <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018WR024407" target="_blank">
-        <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_algorithm.png?raw=true" 
-             alt="PanLu AR algorithm" 
-             style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
-    </a>
-    <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL089477" target="_blank">
-        <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Figure2_annual_cycle_SOM_C8.png?raw=true" 
-             alt="Redefine East Asia AR by Self-organizing Map" 
-             style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
-    </a>
+   <figure style="margin: 0; max-width: 45%; min-width: 300px;">
+       <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_algorithm.png?raw=true" 
+            alt="PanLu AR algorithm"
+            style="width: 100%; height: auto;">
+       <figcaption style="text-align: center; font-size: 14px; margin-top: 8px;">
+           <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018WR024407" 
+              target="_blank" 
+              style="text-decoration: underline;">PanLu AR algorithm</a>
+       </figcaption>
+   </figure>
+   
+   <figure style="margin: 0; max-width: 45%; min-width: 300px;">
+       <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Figure2_annual_cycle_SOM_C8.png?raw=true" 
+            alt="Redefine East Asia AR by Self-organizing Map"
+            style="width: 100%; height: auto;">
+       <figcaption style="text-align: center; font-size: 14px; margin-top: 8px;">
+           <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL089477" 
+              target="_blank"
+              style="text-decoration: underline;">Redefine East Asia AR by Self-organizing Map</a>
+       </figcaption>
+   </figure>
 </div>
+
+
     <!-- Second Image Set -->
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 10px 0;">
       <a href="https://www.nature.com/articles/s43247-024-01552-y" target="_blank">
