@@ -8,16 +8,15 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     <!-- Profile Section -->
     <div style="display: flex; align-items: start; flex-wrap: wrap; margin: 20px 0;"> 
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" 
-            style="max-width: 350px; width: 100%; height: auto; margin: 0 20px 15px 0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+            style="max-width: 400px; width: 100%; height: auto; margin: 10px 20px 15px 0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
             alt="Dr. Mengxin Pan">
         <div style="flex: 1; min-width: 300px;">
             <h1 style="font-size: clamp(28px, 5vw, 32px); margin-bottom: 15px; color: #333;">Mengxin Pan</h1>
-            <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 15px; margin-left: 0;">I will join the <a href="https://www.sfu.ca/geography.html" target="_blank">Department of Geography</a> at <a href="https://www.sfu.ca" target="_blank">Simon Fraser University</a> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
+            <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px; margin-left: 10px;">I will join the <a href="https://www.sfu.ca/geography.html" target="_blank">Department of Geography</a> at <a href="https://www.sfu.ca" target="_blank">Simon Fraser University</a> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
         </div>
     </div>
-
-<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 15px 0;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.</p>
-
+<!-- In your paragraph, link to it using #opportunities -->
+<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 15px 15px;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada. <a href="#opportunities">See more details in opportunities</a>.</p>
     <!-- Research Section -->
     <h2 style="font-size: clamp(24px, 4vw, 32px); color: #333; margin: 25px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
     
@@ -78,8 +77,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     </div>
 
     <!-- Opportunities Section -->
-    <h2 style="font-size: clamp(24px, 4vw, 32px); color: #333; margin: 25px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Fully funded Master's and PhD opportunities</h2>
-
+    <h2 id="opportunities" style="font-size: clamp(24px, 4vw, 32px); color: #333; margin: 25px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Fully funded Master's and PhD opportunities</h2>
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 15px 0;">The research theme is <strong>applied data science in climate science</strong>. Students from all climate science and data science backgrounds are welcome, including climate dynamics, atmospheric science, oceanography, physics, or related disciplines. Students from diverse backgrounds who are interested in interdisciplinary research are also welcome, including but not limited in statistics, global health, social science, and civil engineering.</p>
 
     <h3 style="font-size: clamp(20px, 3vw, 24px); color: #444; margin: 20px 0 10px;">Qualifications</h3>
