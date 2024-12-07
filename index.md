@@ -1,12 +1,12 @@
 ---
-title: About Me
+title: Personal website
 feature_text: |
-  <h2 style="color: white; font-size: 36px; text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
+  <h2 style="color: white; font-size: 24px; text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
 feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=800&h=400&m=6"
 ---
 
 
-<img src="/assets/IMG_0099.jpg" alt="Your Name" width="400" height="400" align="left" style="margin-right: 20px;">
+<img src="/assets/IMG_0099.jpg" width="300" height="300" align="left" style="margin-right: 20px;">
         Hello, I am Mengxin Pan. In Jan 2025, I will join the Department of Geography at Simon Fraser University as a **tenure-track assistant professor** and build up the **"Climate and Weather Extremes Lab"**. I am seeking Master’s and Ph.D. students to join my group in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
         
 
