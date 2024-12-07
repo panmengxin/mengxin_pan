@@ -1,7 +1,7 @@
 ---
 #title: Personal website
 feature_text: |
-  <h2 style="color: white; font-size: 24px; text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
+  <h2 style="color: white; font-size: 32px; text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
 feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=800&h=400&m=6"
 ---
 <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" width="300" height="300" align="left" style="margin-right: 20px;">
