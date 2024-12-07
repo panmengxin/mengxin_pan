@@ -24,8 +24,11 @@ Atmospheric rivers (ARs), “the rivers in the sky”, are long, narrow, and tra
 
 <img src="path/to/your/animation.gif" alt="Description" width="500" height="300">
 
-Regarding ARs as the bridge, I study how large-scale climate variability modulates mid-latitude extreme weather in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms. 
-
+Regarding ARs as the bridge, I study how large-scale climate variability modulates mid-latitude extreme weather in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_algorithm.png" alt="PanLu AR algorithm" width="300" height="300" style="max-width: 45%;">
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Figure2_annual_cycle_SOM_C8.pdf" alt="Redefine East Asia AR by Self-organizing Map" width="300" height="300" style="max-width: 45%;">
+</div>
 
 
 - <p style="font-size: 16px;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> Submitted.</p>
