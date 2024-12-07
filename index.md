@@ -17,10 +17,10 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
 
 <h2 style="font-size: 32px; color: #333; margin-bottom: 20px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
-My research combines advanced data mining techniques with climate science to address real-world problems, with two interconnected objectives. First, **advancing the physical understanding of climate and weather extremes**, with specific interests in the mechanism of **Atmospheric Rivers** and their changes in a warming climate. Second, **bridging the physical and social dimensions in facing climate change challenges**. I am leading interdisciplinary research connecting Climate Dynamics with **Global Health** and **Civil Engineering** (e.g., involving tropical ocean variability in the vector-borne disease prediction in Latin America and assessing the resilience of global bridges under the ongoing global warming).
+My research combines advanced data mining techniques with climate dynamics to address real-world problems, with two interconnected objectives. First, **advancing the fundamental insight of climate and weather extremes**, with specific interests in **Atmospheric Rivers** and their changes in a warming climate. Second, **bridging the physical and social dimensions in facing climate change challenges**. I am leading interdisciplinary research connecting Climate Dynamics with **Global Health** and **Civil Engineering** (e.g., involving tropical ocean variability in the vector-borne disease prediction and assessing the resilience of global bridges under the ongoing global warming).
 
 <h3 style="font-size: 24px; color: #444;">1). Extreme weather under climate change </h3>
-Atmospheric rivers (ARs), “the rivers in the sky”, are long, narrow, and transient corridors with intensive horizontal moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems, agricultural production, and human water resources, while the landfall of extreme ARs also bring life-threatening extreme weather, like heavy precipitation and strong wind.
+Atmospheric rivers (ARs), “the rivers in the sky”, are long, narrow, and transient corridors with intensive moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems and human water resources, while the landfall of extreme ARs also bring life-threatening extreme weathers.
 
 <img src="path/to/your/animation.gif" alt="Description" width="500" height="300">
 
