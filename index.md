@@ -24,7 +24,7 @@ Atmospheric rivers (ARs), “the rivers in the sky”, are long, narrow, and tra
 
 <img src="path/to/your/animation.gif" alt="Description" width="500" height="300">
 
-Regarding ARs as the bridges, I study how large-scale climate variability and changes modulate mid-latitude extreme weather. 
+Regarding ARs as the bridges, I study how large-scale climate variability modulate mid-latitude extreme weather in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, build up a global AR database, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific AR, and explore if we have experienced more ARs under the ongoing climate change and its underly mechanisms. 
 
 
 
