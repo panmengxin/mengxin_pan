@@ -22,12 +22,17 @@ My research combines advanced data mining techniques with climate dynamics to ad
 <h3 style="font-size: 24px; color: #444;">1). Extreme weather under climate change </h3>
 Atmospheric rivers (ARs), “the rivers in the sky”, are long, narrow, and transient corridors with intensive moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems and human water resources, while the landfall of extreme ARs also bring life-threatening extreme weathers.
 
-<img src="path/to/your/animation.gif" alt="Description" width="500" height="300">
+<img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Canada_landfall_AR_events_JFM_1978-02-16%2014%3A00%3A00_17.gif" alt="Global AR Database" width="500" height="300">
 
 Regarding ARs as the bridge, I study how large-scale climate variability modulates mid-latitude extreme weather in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.
+
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_algorithm.png?raw=true" alt="PanLu AR algorithm" width="500" height="300" style="max-width: 45%;">
-    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Figure2_annual_cycle_SOM_C8.pdf?raw=true" alt="Redefine East Asia AR by Self-organizing Map" width="500" height="300" style="max-width: 45%;">
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_algorithm.png?raw=true" 
+         alt="PanLu AR algorithm" 
+         style="max-width: 45%; object-fit: contain;">
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Figure2_annual_cycle_SOM_C8.png?raw=true" 
+         alt="Redefine East Asia AR by Self-organizing Map" 
+         style="max-width: 45%; object-fit: contain;">
 </div>
 
 
