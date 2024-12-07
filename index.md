@@ -1,10 +1,10 @@
 ---
 title: Mengxin Pan
 feature_text: |
-  <h2 style="color: white; font-size: 28px; text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
+  <h2 style="color: white; font-size: 26px; text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
 feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=800&h=400&m=6"
 ---
-<img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" width="350" height="350" align="right" style="margin-right: 20px;">
+<img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" width="400" height="400" align="right" style="margin-right: 20px;">
   I will join the Department of Geography at Simon Fraser University as a **tenure-track assistant professor** in Jan 2025,. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at Duke University. Before that, I got my Ph.D. from the Hong Kong University of Science and Technology (2021) and Bachelor’s degree from Southeast University (2016).
   
   I am seeking Master’s and Ph.D. students to join my **"Climate and Weather Extremes Lab"** in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
