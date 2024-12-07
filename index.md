@@ -21,10 +21,6 @@ My research combines advanced data mining techniques with climate science to add
 
 <h2 style="font-size: 32px; color: #333; margin-bottom: 20px; border-bottom: 2px solid #333;">Fully funded Master's and PhD opportunities</h2>
 
-
-
-<h4 style="font-size: 24px; color: #555;">Second subheading</h4>
-
 I am seeking Master’s and Ph.D. students to join my **"Climate and Weather Extremes Lab"** in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
 
 The research theme is applied data science in climate science. Students from all climate science and data science backgrounds are welcome, including climate dynamics, atmospheric science, oceanography, physics, or related disciplines. Students from diverse backgrounds who are interested in interdisciplinary research are also welcome, including but not limited in statistics, global health, social science, and civil engineering. 
