@@ -1,12 +1,21 @@
 ---
 title: About Me
 feature_text: |
-  ## Alembic
-  Facing climate change challenges with scientific knowledge and practical solutions
+  ## Facing climate change challenges with scientific knowledge and practical solutions
 feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=768&h=336&m=6"
 ---
+![Profile](/assets/IMG_0099.png)
 
-Hello, I am Mengxin Pan. In Jan 2025, I will join the Department of Geography at Simon Fraser University as a **tenure-track assistant professor** and build up the **”Climate and Weather Extremes Lab”**. I am seeking Master’s and Ph.D. students to join my group in Fall 2025 or Spring/Fall 2026. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
+<img src="/assets/IMG_0099.png" alt="Your Name" width="200" height="200" align="left" style="margin-right: 20px;">
+        Hello, I am Mengxin Pan. In Jan 2025, I will join the Department of Geography at Simon Fraser University as a **tenure-track assistant professor** and build up the **”Climate and Weather Extremes Lab”**. I am seeking Master’s and Ph.D. students to join my group in Fall 2025 or Spring/Fall 2026. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
+        
+<div style="display: flex; align-items: center;">
+    <img src="/assets/IMG_0099.png" width="200">
+    <div style="margin-left: 20px">
+        Hello, I am Mengxin Pan. In Jan 2025, I will join the Department of Geography at Simon Fraser University as a **tenure-track assistant professor** and build up the **”Climate and Weather Extremes Lab”**. I am seeking Master’s and Ph.D. students to join my group in Fall 2025 or Spring/Fall 2026. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
+    </div>
+</div>
+
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
