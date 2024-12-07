@@ -1,17 +1,17 @@
 ---
-title: Mengxin Pan
 feature_text: |
   <h2 style="color: white; font-size: 24px; text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
 feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=800&h=400&m=6"
 ---
 
 <div style="display: flex; align-items: start; max-width: 1200px; margin: 0 auto; flex-wrap: wrap;"> 
-   <div style="font-size: 18px; flex: 1; min-width: 300px;">
-       <p style="margin-bottom: 20px;">I will join the Department of Geography at <strong>Simon Fraser University</strong> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
-   </div>
-   <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" 
-        style="max-width: 380px; width: 100%; height: auto; margin: 20px auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-        alt="Dr. Mengxin Pan">
+    <div style="font-size: 18px; flex: 1; min-width: 300px;">
+        <h1 style="font-size: 28px; margin-bottom: 20px; color: #333;">Mengxin Pan</h1>
+        <p style="margin-bottom: 20px;">I will join the Department of Geography at <strong>Simon Fraser University</strong> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
+    </div>
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" 
+         style="max-width: 380px; width: 100%; height: auto; margin: 20px auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+         alt="Dr. Mengxin Pan">
 </div>
 
   I am seeking Master’s and Ph.D. students to join my **"Climate and Weather Extremes Lab"** in **Fall 2025** or **Spring/Fall 2026**. Both Master’s and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.
