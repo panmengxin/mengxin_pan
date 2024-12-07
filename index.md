@@ -6,6 +6,8 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 ---
 
 <div style="display: flex; align-items: start;">
+    <div style="font-size: 36px; flex: 1;"> <!-- Added flex: 1 for text -->
+        <p>**Mengxin Pan**</p>
     <div style="font-size: 18px; flex: 1;"> <!-- Added flex: 1 for text -->
         <p>I will join the Department of Geography at Simon Fraser University as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at Duke University. Before that, I got my Ph.D. from the Hong Kong University of Science and Technology (2021) and Bachelor's degree from Southeast University (2016).</p>
     </div>
