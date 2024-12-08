@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://panmengxin.github.io/mengxin_pan/sitemap.xml
