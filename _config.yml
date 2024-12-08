@@ -14,7 +14,6 @@ exclude:
 - README.md
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
-- categories.md
 - screenshot.png
 - LICENSE
 - CNAME
@@ -60,18 +59,16 @@ sass:
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
-markdown: kramdown
-encoding: utf-8
-timezone: America/Vancouver
+
 # 5. Collections
 collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
     description: "My thoughts and ideas" # The post list page content
-feature_text: |
-  <h2 style="color: white; font-size: 24px; text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
-feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=1200&h=400&m=6"
+    feature_text: |
+      Welcome to the blog
+    feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
 defaults:
@@ -96,12 +93,12 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "" # Site name or title, also used in jekyll-seo-tag
+title: "Mengxin Pan" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "I will join the Department of Geography at Simon Fraser University as a tenure-track assistant professor in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at Duke University. Before that, I got my Ph.D. from the Hong Kong University of Science and Technology (2021) and Bachelor's degree from Southeast University (2016)." # Site description and default description, also used in jekyll-seo-tag
+description: "I will join the Department of Geography at Simon Fraser University as a tenure-track assistant professor in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at Duke University. Before that, I got my Ph.D. from the Hong Kong University of Science and Technology (2021) and Bachelor’s degree from Southeast University (2016)." # Site description and default description, also used in jekyll-seo-tag
 url: "https://panmengxin.github.io/mengxin_pan/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
+repo: "https://panmengxin.github.io/mengxin_pan/"
 email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
@@ -126,9 +123,20 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
+- title: Elements
+  url: /elements/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
+- title: Fork Alembic
+  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Created by Mengxin Pan
+- title: Created by David Darnes
+  url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
@@ -151,8 +159,7 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
-
-
+    
 # SEO settings
 google_site_verification: 950807  # If you want to verify with Google
 
