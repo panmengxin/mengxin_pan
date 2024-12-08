@@ -11,7 +11,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
             style="max-width: 400px; width: 100%; height: auto; margin: 10px 20px 15px 0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
             alt="Dr. Mengxin Pan">
         <div style="flex: 1; min-width: 300px;">
-            <h1 style="font-size: clamp(28px, 5vw, 32px); margin-top: 30px; margin-bottom: 15px; color: #333;">Mengxin Pan</h1>
+            <h1 style="font-size: clamp(28px, 5vw, 32px); margin-top: 20px; margin-bottom: 15px; color: #333;">Mengxin Pan</h1>
             <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px; margin-left: 0px;text-indent: 2em;">I will join the <a href="https://www.sfu.ca/geography.html" target="_blank">Department of Geography</a> at <a href="https://www.sfu.ca" target="_blank">Simon Fraser University</a> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
         </div>
     </div>
@@ -23,7 +23,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 0px;text-indent: 2em;">My research combines advanced data mining techniques with climate dynamics to address real-world problems, with two interconnected objectives. First, <strong>advancing the fundamental insight of climate and weather extremes</strong>, with specific interests in <strong>Atmospheric Rivers</strong> and their changes in a warming climate. Second, <strong>bridging the physical and social dimensions in facing climate change challenges</strong>.</p>
 
-    <h3 style="font-size: clamp(20px, 3vw, 20px); color: #444; margin: 10px 0 10px;">1). Extreme weather under climate change</h3>
+    <h3 style="font-size: clamp(20px, 3vw, 18px); color: #444; margin: 10px 0 10px;">1). Extreme weather under climate change</h3>
     
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 10px;text-indent: 2em;">Atmospheric rivers (ARs), "the rivers in the sky", are long, narrow, and transient corridors with intensive moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems and human water resources, while the landfall of extreme ARs also bring life-threatening extreme weathers.</p>
 
@@ -79,12 +79,12 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     </div>
 
     <!-- Climate Change and Society Section -->
-    <h3 style="font-size: clamp(20px, 3vw, 20px); color: #444; margin: 10px 0 15px;">2). Climate Change and Society</h3>
+    <h3 style="font-size: clamp(18px, 3vw, 18px); color: #444; margin: 10px 0 15px;">2). Climate Change and Society</h3>
 
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;text-indent: 2em;">Starting from climate dynamics, I lead interdisciplinary collaborative studies about the climate impact in a warming world, providing holistic understanding and practical climate solutions. Collaborating with Global Health, I explore the overlooked role of tropical oceans in vector-borne disease prediction. Collaborating with Civil Engineering, I investigate the resilience of bridges in facing extreme temperatures under global warming.</p>
 
 <!-- Second Image Set -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 10px 0;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 5px 0;">
     <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/SST_malaria.png?raw=true" 
          alt="Long-lead malaria prediction by tropical ocean" 
          style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
@@ -104,7 +104,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     <h2 id="opportunities" style="font-size: clamp(20px, 4vw, 24px); color: #333; margin: 10px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Fully funded Master's and PhD opportunities</h2>
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;text-indent: 2em;">The research theme is <strong>applied data science in climate science</strong>. Students from all climate science and data science backgrounds are welcome, including climate dynamics, atmospheric science, oceanography, physics, or related disciplines. Students from diverse backgrounds who are interested in interdisciplinary research are also welcome, including but not limited in statistics, global health, social science, and civil engineering.</p>
 
-    <h3 style="font-size: clamp(20px, 3vw, 20px); color: #444; margin: 10px 0 10px;">Qualifications</h3>
+    <h3 style="font-size: clamp(18px, 3vw, 18px); color: #444; margin: 10px 0 10px;">Qualifications</h3>
     <ul style="font-size: clamp(16px, 3vw, 18px); line-height: 1.2; margin: 10px 0 10px 20px;">
         <li style="margin-bottom: 5px;">Bachelor's degree (for Master's applicants) or Master's degree (for Ph.D. applicants);</li>
         <li style="margin-bottom: 5px;">Strong interests in applied data science in climate science (Programming and data analysis proficiency is prefered);</li>
@@ -112,12 +112,12 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
         <li style="margin-bottom: 5px;">Demonstrated self-motivation, independence, and critical thinking ability;</li>
     </ul>
 
-    <h3 style="font-size: clamp(20px, 3vw, 20px); color: #444; margin: 10px 0 10px;">How to Apply</h3>
+    <h3 style="font-size: clamp(18px, 3vw, 18px); color: #444; margin: 10px 0 10px;">How to Apply</h3>
     <ul style="font-size: clamp(16px, 3vw, 18px); line-height: 1.2; margin: 10px 0 10px 20px;">
         <li style="margin-bottom: 5px;">Please send your <strong>CV, personal/research statement, and academic transcripts</strong> to <a href="mailto:mengxin.pan@duke.edu" style="color: #0066cc;">mengxin.pan@duke.edu</a>.</li>
         <li style="margin-bottom: 5px;">Prefer to admit students with prior connections, so early inquiries are strongly encouraged.</li>
         <li style="margin-bottom: 5px;">English proficiency scores or publications are not required for initial application.</li>
-        <li style="margin-bottom: 5px;">The official application deadline for Fall 2025 is <span style="color: #FF0000;"><strong>Jan 2025</strong></span>, so please email me before Dec 31 2024 if you are interested.</li>
+        <li style="margin-bottom: 5px;">The official application deadline for Fall 2025 is <span style="color: #FF0000;"><strong>Jan 2025</strong></span>, so please email me before <span style="color: #FF0000;">Jan 1st 2025</span> if you are interested.</li>
     </ul>
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;">(See details <a href="https://www.sfu.ca/geography/prospective-students/prospective-graduate.html" target="_blank">here</a> for more information on the application procedure).</p>
 </div>
