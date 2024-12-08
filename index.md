@@ -16,7 +16,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
         </div>
     </div>
 <!-- In your paragraph, link to it using #opportunities -->
-<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px;text-indent: 2em;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.The official application deadline for Fall 2025 is <span style="color: #FF0000;">Jan 2025</span>, so please email me before <span style="color: #FF0000;">Jan 1 2025</span> if you are interested. See more details in <a href="#opportunities">opportunities</a>.</p>
+<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px;text-indent: 2em;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.The official application deadline for Fall 2025 is <span style="color: #FF0000;">Jan 2025</span>, so please email me before <span style="color: #FF0000;">Jan 1st 2025</span> if you are interested. See more details in <a href="#opportunities">opportunities</a>.</p>
     
   <!-- Research Section -->
     <h2 style="font-size: clamp(20px, 4vw, 24px); color: #333; margin: 5px 0 10px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
@@ -44,7 +44,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;text-indent: 2em;">Regarding ARs as the bridge, I study <strong>how large-scale climate variability modulates mid-latitude extreme weather in the warming climate</strong>. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
 
     <!-- First Image Set -->
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 10px 0;">
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 5px 0;">
       <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018WR024407" target="_blank">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_algorithm.png?raw=true" 
              alt="PanLu AR algorithm" 
@@ -58,7 +58,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     </div>
 
     <!-- Second Image Set -->
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 10px 0;">
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 5px 0;">
       <a href="https://www.nature.com/articles/s43247-024-01552-y" target="_blank">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/cross_Pacific_AR.png?raw=true" 
              alt="Diversity of cross-Pacific AR main route" 
