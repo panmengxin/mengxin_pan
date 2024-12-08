@@ -1,49 +1,38 @@
-# 1. Files excluded from Jekyll builds
-exclude:
-- README.md
-- LICENSE
-- CNAME
-- Gemfile
-- Gemfile.lock
-- alembic-jekyll-theme.gemspec
-- .jekyll-cache
-
-# 2. Installed Gems
-plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-include-cache
-- jemoji
-
-# 3. Jekyll settings
-sass:
-  style: compressed
-permalink: pretty
-timezone: America/Vancouver  # Changed to Vancouver time
-
-# 4. Site settings
-encoding: utf-8
-lang: en-GB
+# Basic settings
 title: "Mengxin Pan"
-logo: []  # Empty to remove logo
-description: "I will join the Department of Geography at Simon Fraser University as a tenure-track assistant professor in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at Duke University. Before that, I got my Ph.D. from the Hong Kong University of Science and Technology (2021) and Bachelor's degree from Southeast University (2016)."
+description: "I will join the Department of Geography at Simon Fraser University as a tenure-track assistant professor in Jan 2025."
 url: "https://panmengxin.github.io/mengxin_pan/"
 baseurl: ""
 email: "mengxin_pan@sfu.ca"
-css_inline: true
 
-# 5. Navigation (cleaned up)
-navigation_header: []  # Empty to remove header navigation
+# Build settings
+markdown: kramdown
+encoding: utf-8
+timezone: America/Vancouver
 
-navigation_footer: []  # Empty to remove footer navigation
+# Plugin settings
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
 
-# 6. Keep fonts if needed
-fonts:
-  preconnect_urls:
-    - https://fonts.gstatic.com
-  font_urls:
-    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+# Navigation (empty arrays)
+navigation_header: []
+navigation_footer: []
+
+# Theme settings
+logo: ""  # Empty string instead of empty array
+
+
+# SEO settings
+title: "Mengxin Pan"
+description: "Climate scientist, Assistant professor at Simon Fraser University"
+author: "Mengxin Pan"
+google_site_verification: 950807  # If you want to verify with Google
+
+# Add more detailed SEO tags
+seo:
+  name: "Mengxin Pan"
+  type: Person
+  links:
+    - https://panmengxin.github.io/mengxin_pan/
