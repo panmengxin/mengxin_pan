@@ -159,7 +159,6 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
-    
 # SEO settings
 google_site_verification: 950807  # If you want to verify with Google
 
