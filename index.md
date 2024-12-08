@@ -74,7 +74,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
        
        <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, & Lu, M. (2020). <em>East Asia atmospheric river catalog: annual cycle, transition mechanism, and precipitation.</em> Geophysical Research Letters, 47(15), e2020GL089477. <a href="https://doi.org/10.1029/2020GL089477">[Link]</a></li>
        
-       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, & Lu, M. (2019). <em>A novel atmospheric river identification algorithm.</em> Water Resources Research, 55(7), 6069-6087. <a href="https://doi.org/10.1029/2018WR024407">[Link]</a></li>
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, & Lu, M. (2019). <em>A novel atmospheric river identification algorithm.</em> Water Resources Research, 55(7). <a href="https://doi.org/10.1029/2018WR024407">[Link]</a></li>
    </ul>
 </div>
 
