@@ -60,16 +60,18 @@ sass:
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
-
+markdown: kramdown
+encoding: utf-8
+timezone: America/Vancouver
 # 5. Collections
 collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
     description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+feature_text: |
+  <h2 style="color: white; font-size: 24px; text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
+feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=1200&h=400&m=6"
 
 # 6. Jekyll collections settings
 defaults:
