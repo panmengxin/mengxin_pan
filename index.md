@@ -27,12 +27,19 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 10px;">Atmospheric rivers (ARs), "the rivers in the sky", are long, narrow, and transient corridors with intensive moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems and human water resources, while the landfall of extreme ARs also bring life-threatening extreme weathers.</p>
 
-    <!-- AR GIF -->
-    <div style="display: flex; justify-content: center; margin: 10px 0;">
-        <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Canada_landfall_AR_events_JFM_1978-02-16%2014%3A00%3A00_17.gif?raw=true" 
-             alt="Global AR Database" 
-             style="max-width: 90%; height: auto;">
-    </div>
+<!-- AR Video -->
+<div style="display: flex; justify-content: center; margin: 10px 0;">
+   <video 
+       width="90%" 
+       controls
+       autoplay
+       muted
+       loop
+       style="max-width: 1000px; height: auto; border-radius: 10px;">
+       <source src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Pacific_AR_events.mp4?raw=true" type="video/mp4">
+       Your browser does not support the video tag.
+   </video>
+</div>
 
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;">Regarding ARs as the bridge, I study <strong>how large-scale climate variability modulates mid-latitude extreme weather in the warming climate</strong>. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
     
@@ -119,7 +126,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
     <h3 style="font-size: clamp(20px, 3vw, 20px); color: #444; margin: 10px 0 10px;">How to Apply</h3>
     <ul style="font-size: clamp(16px, 3vw, 18px); line-height: 1.2; margin: 10px 0 10px 20px;">
-        <li style="margin-bottom: 5px;">Please send your CV, personal/research statement, and academic transcripts to mengxin.pan@duke.edu.</li>
+        <li style="margin-bottom: 5px;">Please send your CV, personal/research statement, and academic transcripts to <a href="mailto:mengxin.pan@duke.edu" style="color: #0066cc;">mengxin.pan@duke.edu</a>.</li>
         <li style="margin-bottom: 5px;">Prefer to admit students with prior connections, so early inquiries are strongly encouraged.</li>
         <li style="margin-bottom: 5px;">English proficiency scores or publications are not required for initial application.</li>
         <li style="margin-bottom: 5px;">The official application deadline for Fall 2025 is <span style="color: #FF0000;">Jan 2025</span>, so please email me before Dec 31 2024 if you are interested.</li>
