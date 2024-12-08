@@ -44,23 +44,23 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;text-indent: 2em;">Regarding ARs as the bridge, I study <strong>how large-scale climate variability modulates mid-latitude extreme weather in the warming climate</strong>. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
 
     <!-- First Image Set -->
-    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 5px 0;">
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_algorithm.png?raw=true" 
              alt="PanLu AR algorithm" 
-             style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
+             style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Figure2_annual_cycle_SOM_C8.png?raw=true" 
              alt="Redefine East Asia AR by Self-organizing Map" 
-             style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
+             style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
     </div>
 
     <!-- Second Image Set -->
-    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 5px 0;">
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/cross_Pacific_AR.png?raw=true" 
              alt="Diversity of cross-Pacific AR main route" 
-             style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
+             style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/long-term_trend_of_AR.png?raw=true" 
              alt="Historical trend of Northern Hemisphere AR during 1950-2022" 
-             style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
+             style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
     </div>
 
     <!-- Publications -->
@@ -77,7 +77,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;text-indent: 2em;">Starting from climate dynamics, I lead interdisciplinary collaborative studies about the climate impact in a warming world, providing holistic understanding and practical climate solutions. Collaborating with Global Health, I explore the overlooked role of tropical oceans in vector-borne disease prediction. Collaborating with Civil Engineering, I investigate the resilience of bridges in facing extreme temperatures under global warming.</p>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 5px 0;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/SST_malaria.png?raw=true" 
          alt="Long-lead malaria prediction by tropical ocean" 
          style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
