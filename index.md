@@ -7,16 +7,16 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
     <!-- Profile Section -->
     <div style="display: flex; align-items: start; flex-wrap: wrap; margin: 20px 0;"> 
-        <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" 
-            style="max-width: 400px; width: 100%; height: auto; margin: 10px 20px 15px 0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-            alt="Dr. Mengxin Pan">
         <div style="flex: 1; min-width: 300px;">
             <h1 style="font-size: clamp(28px, 5vw, 32px); margin-top: 20px; margin-bottom: 15px; color: #333;">Mengxin Pan</h1>
             <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px; margin-left: 0px;text-indent: 2em;">I will join the <a href="https://www.sfu.ca/geography.html" target="_blank">Department of Geography</a> at <a href="https://www.sfu.ca" target="_blank">Simon Fraser University</a> as a <strong>tenure-track assistant professor</strong> in Jan 2025. I am a postdoctoral associate in the Division of Earth and Climate Science, Nicholas School of the Environment at <strong>Duke University</strong>. Before that, I got my Ph.D. from <strong>the Hong Kong University of Science and Technology</strong> (2021) and Bachelor's degree from <strong>Southeast University</strong> (2016).</p>
         </div>
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/IMG_0099.jpg?raw=true" 
+    style="max-width: 380px; width: 100%; height: auto; margin: 10px 20px 15px 0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    alt="Dr. Mengxin Pan">
     </div>
 <!-- In your paragraph, link to it using #opportunities -->
-<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px;text-indent: 2em;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.The official application deadline for Fall 2025 is <span style="color: #FF0000;">Jan 2025</span>, so please email me before <span style="color: #FF0000;"><strong>Jan 1st 2025</strong>strong></span> if you are interested. See more details in <a href="#opportunities">opportunities</a>.</p>
+<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px;text-indent: 2em;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.The official application deadline for Fall 2025 is <span style="color: #FF0000;">Jan 2025</span>, so please email me before <span style="color: #FF0000;"><strong>Jan 1st 2025</strong></span> if you are interested. See more details in <a href="#opportunities">opportunities</a>.</p>
     
   <!-- Research Section -->
     <h2 style="font-size: clamp(20px, 4vw, 24px); color: #333; margin: 5px 0 10px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
@@ -25,7 +25,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
     <h3 style="font-size: clamp(20px, 3vw, 18px); color: #444; margin: 10px 0 10px;">1). Extreme weather under climate change</h3>
     
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 10px;text-indent: 2em;">Atmospheric rivers (ARs), "the rivers in the sky", are long, narrow, and transient corridors with intensive moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems and human water resources, while the landfall of extreme ARs also bring life-threatening extreme weathers.</p>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 10px;text-indent: 2em;"><strong>Atmospheric rivers (ARs)</strong>, "the rivers in the sky", are long, narrow, and transient corridors with intensive moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems and human water resources, while the landfall of extreme ARs also bring life-threatening extreme weathers.</p>
 
 <!-- AR Video -->
 <div style="display: flex; justify-content: center; margin: 10px 0;">
@@ -41,10 +41,10 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
    </video>
 </div>
 
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;text-indent: 2em;">Regarding ARs as the bridge, I study <strong>how large-scale climate variability modulates mid-latitude extreme weather in the warming climate</strong>. Utilizing machine learning algorithms, I develop AR detection algorithms, study the seasonality of East Asia ARs, explore the diversity of propagation behavior of cross-Pacific ARs, and investigate if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;text-indent: 2em;">Regarding ARs as the bridge, I study <strong>how large-scale climate variability</strong> modulates <strong>mid-latitude extreme weather</strong> in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, redefine the annual cycle of East Asia ARs, study the diversity of propagation behavior of cross-Pacific ARs, and explore if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
 
     <!-- First Image Set -->
-    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;margin: 10px 0;">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_algorithm.png?raw=true" 
              alt="PanLu AR algorithm" 
              style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
@@ -54,7 +54,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     </div>
 
     <!-- Second Image Set -->
-    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;margin: 10px 0;">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/cross_Pacific_AR.png?raw=true" 
              alt="Diversity of cross-Pacific AR main route" 
              style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
@@ -63,14 +63,19 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
              style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
     </div>
 
-    <!-- Publications -->
-    <div style="margin: 0 0;">
-        <p style="font-size: 14px; margin-bottom: 0;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> Submitted.</p>
-        <p style="font-size: 14px; margin-bottom: 0;"><strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></p>
-        <p style="font-size: 14px; margin-bottom: 0;"><strong>Pan, M.</strong>, & Lu, M. (2022). <em>Long-lead predictability of western north Pacific subtropical high.</em> Journal of Geophysical Research: Atmospheres, 127(5), 2021JD035967. <a href="https://doi.org/10.1029/2021JD035967">[Link]</a></p>
-        <p style="font-size: 14px; margin-bottom: 0;"><strong>Pan, M.</strong>, & Lu, M. (2020). <em>East Asia atmospheric river catalog: annual cycle, transition mechanism, and precipitation.</em> Geophysical Research Letters, 47(15), e2020GL089477. <a href="https://doi.org/10.1029/2020GL089477">[Link]</a></p>
-        <p style="font-size: 14px; margin-bottom: 0;"><strong>Pan, M.</strong>, & Lu, M. (2019). <em>A novel atmospheric river identification algorithm.</em> Water Resources Research, 55(7), 6069-6087. <a href="https://doi.org/10.1029/2018WR024407">[Link]</a></p>
-    </div>
+<!-- Publications -->
+<div style="margin: 0 0;">
+   <ul style="list-style-type: disc; margin: 10px 0 10px 20px; padding: 0;">
+       <li style="font-size: 14px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> Submitted.</li>
+       <li style="font-size: 14px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></li>
+       
+       <li style="font-size: 14px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, & Lu, M. (2022). <em>Long-lead predictability of western north Pacific subtropical high.</em> Journal of Geophysical Research: Atmospheres, 127(5), 2021JD035967. <a href="https://doi.org/10.1029/2021JD035967">[Link]</a></li>
+       
+       <li style="font-size: 14px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, & Lu, M. (2020). <em>East Asia atmospheric river catalog: annual cycle, transition mechanism, and precipitation.</em> Geophysical Research Letters, 47(15), e2020GL089477. <a href="https://doi.org/10.1029/2020GL089477">[Link]</a></li>
+       
+       <li style="font-size: 14px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, & Lu, M. (2019). <em>A novel atmospheric river identification algorithm.</em> Water Resources Research, 55(7), 6069-6087. <a href="https://doi.org/10.1029/2018WR024407">[Link]</a></li>
+   </ul>
+</div>
 
     <!-- Climate Change and Society Section -->
     <h3 style="font-size: clamp(18px, 3vw, 18px); color: #444; margin: 10px 0 15px;">2). Climate Change and Society</h3>
