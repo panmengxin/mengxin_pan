@@ -65,7 +65,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
 <!-- Publications -->
 <div style="margin: 0 0;">
-   <ul style="list-style-type: disc; margin: 5px 0 5px 5px; padding: 0;">
+   <ul style="list-style-type: disc; margin: 5px 0; padding: 0;">
        <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> Submitted.</li>
        
        <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></li>
@@ -92,12 +92,16 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
          style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
 </div>
 
-    <!-- Publications -->
-    <div style="margin: 0 0;">
-        <p style="font-size: 14px; margin-bottom: 0;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Beyond ENSO: Harnessing tropical ocean in long-lead vector-borne disease prediction.</em> Submitted.</p>
-        <p style="font-size: 14px; margin-bottom: 0;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak.</em> In prep.</p>
-        <p style="font-size: 14px; margin-bottom: 0;"><strong>Pan, M.</strong>, Wang, Y., Hu, S., & Au, F. T. K. <em>Extremely High Temperature Threatens Global Bridges under Climate Change.</em> In prep.</p>
-    </div>
+<!-- Publications -->
+<div style="margin: 5px 0;">
+   <ul style="list-style-type: disc; margin: 5px 0; padding: 0;">
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Beyond ENSO: Harnessing tropical ocean in long-lead vector-borne disease prediction.</em> Submitted.</li>
+       
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak.</em> In prep.</li>
+       
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Wang, Y., Hu, S., & Au, F. T. K. <em>Extremely High Temperature Threatens Global Bridges under Climate Change.</em> In prep.</li>
+   </ul>
+</div>
 
     <!-- Opportunities Section -->
     <h2 id="opportunities" style="font-size: clamp(20px, 4vw, 24px); color: #333; margin: 5px 0 5px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Fully funded Master's and PhD opportunities</h2>
