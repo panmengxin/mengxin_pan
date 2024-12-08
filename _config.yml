@@ -1,9 +1,10 @@
 # Basic settings
 title: "Mengxin Pan"
-description: "I will join the Department of Geography at Simon Fraser University as a tenure-track assistant professor in Jan 2025."
-url: "https://panmengxin.github.io/mengxin_pan/"
-baseurl: ""
+description: "Climate scientist, Assistant professor at Simon Fraser University"
+url: "https://panmengxin.github.io"
+baseurl: "/mengxin_pan"
 email: "mengxin_pan@sfu.ca"
+author: "Mengxin Pan"
 
 # Build settings
 markdown: kramdown
@@ -23,14 +24,9 @@ navigation_footer: []
 # Theme settings
 logo: ""  # Empty string instead of empty array
 
-
 # SEO settings
-title: "Mengxin Pan"
-description: "Climate scientist, Assistant professor at Simon Fraser University"
-author: "Mengxin Pan"
 google_site_verification: 950807  # If you want to verify with Google
 
-# Add more detailed SEO tags
 seo:
   name: "Mengxin Pan"
   type: Person
