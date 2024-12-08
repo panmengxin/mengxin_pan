@@ -65,15 +65,16 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
 <!-- Publications -->
 <div style="margin: 0 0;">
-   <ul style="list-style-type: disc; margin: 10px 0 10px 20px; padding: 0;">
-       <li style="font-size: 14px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> Submitted.</li>
-       <li style="font-size: 14px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></li>
+   <ul style="list-style-type: disc; margin: 5px 0 5px 5px; padding: 0;">
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> Submitted.</li>
        
-       <li style="font-size: 14px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, & Lu, M. (2022). <em>Long-lead predictability of western north Pacific subtropical high.</em> Journal of Geophysical Research: Atmospheres, 127(5), 2021JD035967. <a href="https://doi.org/10.1029/2021JD035967">[Link]</a></li>
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></li>
        
-       <li style="font-size: 14px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, & Lu, M. (2020). <em>East Asia atmospheric river catalog: annual cycle, transition mechanism, and precipitation.</em> Geophysical Research Letters, 47(15), e2020GL089477. <a href="https://doi.org/10.1029/2020GL089477">[Link]</a></li>
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, & Lu, M. (2022). <em>Long-lead predictability of western north Pacific subtropical high.</em> Journal of Geophysical Research: Atmospheres, 127(5), 2021JD035967. <a href="https://doi.org/10.1029/2021JD035967">[Link]</a></li>
        
-       <li style="font-size: 14px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, & Lu, M. (2019). <em>A novel atmospheric river identification algorithm.</em> Water Resources Research, 55(7), 6069-6087. <a href="https://doi.org/10.1029/2018WR024407">[Link]</a></li>
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, & Lu, M. (2020). <em>East Asia atmospheric river catalog: annual cycle, transition mechanism, and precipitation.</em> Geophysical Research Letters, 47(15), e2020GL089477. <a href="https://doi.org/10.1029/2020GL089477">[Link]</a></li>
+       
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, & Lu, M. (2019). <em>A novel atmospheric river identification algorithm.</em> Water Resources Research, 55(7), 6069-6087. <a href="https://doi.org/10.1029/2018WR024407">[Link]</a></li>
    </ul>
 </div>
 
