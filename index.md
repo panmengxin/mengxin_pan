@@ -45,22 +45,12 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
     <!-- First Image Set -->
     <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;margin: 10px 0;">
-        <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_algorithm.png?raw=true" 
-             alt="PanLu AR algorithm" 
-             style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Figure2_annual_cycle_SOM_C8.png?raw=true" 
              alt="Redefine East Asia AR by Self-organizing Map" 
              style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
-    </div>
-
-    <!-- Second Image Set -->
-    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;margin: 10px 0;">
         <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/cross_Pacific_AR.png?raw=true" 
-             alt="Diversity of cross-Pacific AR main route" 
-             style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
-        <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/long-term_trend_of_AR.png?raw=true" 
-             alt="Historical trend of Northern Hemisphere AR during 1950-2022" 
-             style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
+         alt="Diversity of cross-Pacific AR main route" 
+         style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
     </div>
 
 <!-- Publications -->
