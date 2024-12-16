@@ -107,7 +107,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
 
     <h3 style="font-size: clamp(18px, 3vw, 18px); color: #444; margin: 5px 0;">How to Apply</h3>
     <ul style="font-size: clamp(16px, 3vw, 18px); line-height: 1.2; margin: 5px 0;">
-        <li style="margin-bottom: 5px;">Please send your <strong>CV, personal/research statement, and academic transcripts</strong> to <a href="mailto:mengxin.pan@duke.edu" style="color: #0066cc;">mengxin.pan@duke.edu</a>.</li>
+        <li style="margin-bottom: 5px;">Please send your <strong>CV, personal/research statement, and academic transcripts</strong> to <a href="mailto:mengxin_pan@sfu.ca" style="color: #0066cc;">mengxin.pan@duke.edu</a>.</li>
         <li style="margin-bottom: 5px;">Prefer to admit students with prior connections, so early inquiries are strongly encouraged.</li>
         <li style="margin-bottom: 5px;">English proficiency scores or publications are not required for initial application.</li>
         <li style="margin-bottom: 5px;">The official application deadline for Fall 2025 is <span style="color: #FF0000;"><strong>Jan 2025</strong></span>, so please email me before <span style="color: #FF0000;">Jan 1st 2025</span> if you are interested.</li>
