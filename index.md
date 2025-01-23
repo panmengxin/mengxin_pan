@@ -16,7 +16,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     alt="Dr. Mengxin Pan">
     </div>
 <!-- In your paragraph, link to it using #opportunities -->
-<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px;text-indent: 2em;text-align: justify;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada.The official application deadline for Fall 2025 is <span style="color: #FF0000;">Jan 2025</span>, so please email me before <span style="color: #FF0000;"><strong>Jan 1st 2025</strong></span> if you are interested. See more details in <a href="#opportunities">opportunities</a>.</p>
+<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px;text-indent: 2em;text-align: justify;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada. Please email me if you are interested. See more details in <a href="#opportunities">opportunities</a>.</p>
     
   <!-- Research Section -->
     <h2 style="font-size: clamp(20px, 4vw, 24px); color: #333; margin: 5px 0 10px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
@@ -110,7 +110,7 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
         <li style="margin-bottom: 5px;">Please send your <strong>CV, personal/research statement, and academic transcripts</strong> to <a href="mailto:mengxin_pan@sfu.ca" style="color: black;">mengxin_pan@sfu.ca</a>.</li>
         <li style="margin-bottom: 5px;">Prefer to admit students with prior connections, so early inquiries are strongly encouraged.</li>
         <li style="margin-bottom: 5px;">English proficiency scores or publications are not required for initial application.</li>
-        <li style="margin-bottom: 5px;">The official application deadline for Fall 2025 is <span style="color: #FF0000;"><strong>Jan 2025</strong></span>, so please email me before <span style="color: #FF0000;">Jan 1st 2025</span> if you are interested.</li>
+        <li style="margin-bottom: 5px;">The official application for Master Program in Fall 2025 is closed, but I can still admit PhD student for Fall 2025 and Spring/Fall 2026, so please email me as soon as possible if you are interested.</li>
     </ul>
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 5px 0;">(See details <a href="https://www.sfu.ca/geography/prospective-students/prospective-graduate.html" target="_blank">here</a> for more information on the application procedure).</p>
 </div>
