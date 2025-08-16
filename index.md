@@ -41,6 +41,19 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
    </video>
 </div>
 
+<video
+  controls
+  preload="metadata"
+  playsinline
+  style="max-width: 800px; width: 100%; height: auto; display:block; margin: 1rem auto;"
+  poster="/assets/video_poster.jpg">
+  <source src="/assets/output_1080p.mp4" type="video/mp4">
+  <!-- Optional: provide smaller default first if your audience is bandwidth-limited -->
+  <!-- <source src="/assets/output_720p.mp4" type="video/mp4"> -->
+  Sorry, your browser doesn’t support embedded videos.
+</video>
+
+
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;text-indent: 2em;text-align: justify;">Regarding ARs as the bridge, I study <strong>how large-scale climate variability</strong> modulates <strong>mid-latitude extreme weather</strong> in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, redefine the annual cycle of East Asia ARs, study the diversity of propagation behavior of cross-Pacific ARs, and explore if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
 
     <!-- First Image Set -->
