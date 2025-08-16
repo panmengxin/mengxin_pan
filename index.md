@@ -27,6 +27,13 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
     
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px;text-indent: 2em;text-align: justify;"><strong>Atmospheric rivers (ARs)</strong>, "the rivers in the sky", are long, narrow, and transient corridors with intensive moisture transport in the atmosphere. They provide essential moisture to terrestrial ecosystems and human water resources, while the landfall of extreme ARs also bring life-threatening extreme weathers.</p>
 
+<!-- First Image Set -->
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;margin: 10px 0;">
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_example.JPEG?raw=true" 
+         alt="AR over Pacific example" 
+         style="max-width: 90%; width: 100%; height: auto; min-width: 300px;">
+</div>
+    
 <!-- AR Video -->
 <div style="display: flex; justify-content: center; margin: 10px 0;">
    <video 
