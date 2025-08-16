@@ -29,7 +29,7 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
 
 <!-- First Image Set -->
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;margin: 10px 0;">
-    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_example.JPEG" 
+    <img src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/AR_example.JPEG?raw=true" 
          alt="AR over Pacific example" 
          style="max-width: 90%; width: 90%; height: auto; min-width: 300px;">
 </div>
