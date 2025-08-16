@@ -1,7 +1,7 @@
 ---
 feature_text: |
   <h2 style="color: white; font-size: clamp(20px, 4vw, 20px); text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
-feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=1200&h=400&m=6"
+feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=1200&h=400&m=6](https://earthsky.org/upl/2024/09/atmospheric-river_nasa-earth-observatory_24Sep2024.jpg"
 ---
 
 <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
@@ -16,12 +16,12 @@ feature_image: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr
     alt="Dr. Mengxin Pan">
     </div>
 <!-- In your paragraph, link to it using #opportunities -->
-<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px;text-indent: 2em;text-align: justify;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2025</strong> or <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada. Please email me if you are interested. See more details in <a href="#opportunities">opportunities</a>.</p>
+<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px;text-indent: 2em;text-align: justify;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada. Please email me if you are interested. See more details in <a href="#opportunities">opportunities</a>.</p>
     
   <!-- Research Section -->
     <h2 style="font-size: clamp(20px, 4vw, 24px); color: #333; margin: 5px 0 10px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
     
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 0px;text-indent: 2em;text-align: justify;">My research combines advanced data mining techniques with climate dynamics to address real-world problems, with two interconnected objectives. First, <strong>advancing the fundamental insight of climate and weather extremes</strong>, with specific interests in <strong>Atmospheric Rivers</strong> and their changes in a warming climate. Second, <strong>bridging the physical and social dimensions in facing climate change challenges</strong>.</p>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 0px;text-indent: 2em;text-align: justify;">My research combines advanced artificial intelligent techniques with climate dynamics to address real-world problems, with two interconnected objectives. First, <strong>advancing the fundamental insight of climate and weather extremes</strong>, with specific interests in <strong>Atmospheric Rivers</strong> and their changes in a warming climate. Second, <strong>translating scientific insights into real-world application in facing climate change challenge</strong>.</p>
 
     <h3 style="font-size: clamp(20px, 3vw, 18px); color: #444; margin: 5px 0 5px;">1). Extreme weather under climate change</h3>
     
