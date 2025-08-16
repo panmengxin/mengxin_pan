@@ -21,7 +21,7 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
   <!-- Research Section -->
     <h2 style="font-size: clamp(20px, 4vw, 24px); color: #333; margin: 5px 0 10px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
     
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 0px;text-indent: 2em;text-align: justify;">My research combines advanced artificial intelligent techniques with climate dynamics to address real-world problems, with two interconnected objectives. First, <strong>advancing the fundamental insight of climate and weather extremes</strong>, with specific interests in <strong>Atmospheric Rivers</strong> and their changes in a warming climate. Second, <strong>translating scientific insights into real-world application in facing climate change challenge</strong>.</p>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 0px;text-indent: 2em;text-align: justify;">My research combines advanced artificial intelligent techniques with climate dynamics to address real-world problems, with two interconnected objectives. First, <strong>advancing the fundamental insight of climate and weather extremes</strong>, with specific interests in <strong>Atmospheric Rivers</strong> and Amazon's expanding dry-hot season and their changes in a warming climate. Second, <strong>translating scientific insights into real-world application in facing climate change challenge</strong>.</p>
 
     <h3 style="font-size: clamp(20px, 3vw, 18px); color: #444; margin: 5px 0 5px;">1). Extreme weather under climate change</h3>
     
@@ -56,7 +56,7 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
 <!-- Publications -->
 <div style="margin: 0 0;">
    <ul style="list-style-type: disc; margin: 5px 0; padding: 0;">
-       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> Submitted.</li>
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> In press in npj Climate and Atmospheric Science </li>
        
        <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></li>
        
@@ -85,7 +85,7 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
 <!-- Publications -->
 <div style="margin: 5px 0;">
    <ul style="list-style-type: disc; margin: 5px 0; padding: 0;">
-       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Beyond ENSO: Harnessing tropical ocean in long-lead vector-borne disease prediction.</em> Submitted.</li>
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>A Machine Learning-based Dynamic SST Index for Long-lead Malaria Prediction in the Peruvian Amazon.</em> Submitted.</li>
        
        <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak.</em> In prep.</li>
        
@@ -107,10 +107,10 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
 
     <h3 style="font-size: clamp(18px, 3vw, 18px); color: #444; margin: 5px 0;">How to Apply</h3>
     <ul style="font-size: clamp(16px, 3vw, 18px); line-height: 1.2; margin: 5px 0;">
-        <li style="margin-bottom: 5px;">Please send your <strong>CV, personal/research statement, and academic transcripts</strong> to <a href="mailto:mengxin_pan@sfu.ca" style="color: black;">mengxin_pan@sfu.ca</a>.</li>
+        <li style="margin-bottom: 5px;">Please send your <strong>CV, personal/research statement, and academic transcripts</strong> to <a href="mailto:mengxinp@sfu.ca" style="color: black;">mengxin_pan@sfu.ca</a>.</li>
         <li style="margin-bottom: 5px;">Prefer to admit students with prior connections, so early inquiries are strongly encouraged.</li>
         <li style="margin-bottom: 5px;">English proficiency scores or publications are not required for initial application.</li>
-        <li style="margin-bottom: 5px;">The official application for Master Program in Fall 2025 is closed, but I can still admit PhD student for Fall 2025 and Spring/Fall 2026, so please email me as soon as possible if you are interested.</li>
+        <li style="margin-bottom: 5px;">Please email me as soon as possible if you are interested.</li>
     </ul>
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 5px 0;">(See details <a href="https://www.sfu.ca/geography/prospective-students/prospective-graduate.html" target="_blank">here</a> for more information on the application procedure).</p>
 </div>
