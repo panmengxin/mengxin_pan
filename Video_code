@@ -1,0 +1,25 @@
+<!-- AR Video -->
+<div style="display: flex; justify-content: center; margin: 10px 0;">
+   <video 
+       width="90%" 
+       controls
+       autoplay
+       muted
+       loop
+       style="max-width: 1000px; height: auto; border-radius: 10px;">
+       <source src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Pacific_AR_events.mp4?raw=true" type="video/mp4">
+       Your browser does not support the video tag.
+   </video>
+</div>
+
+<video
+  controls
+  preload="metadata"
+  playsinline
+  style="max-width: 800px; width: 100%; height: auto; display:block; margin: 1rem auto;"
+  poster="/assets/cross_Pacific_AR.png">
+  <source src="/assets/Pacific_AR_events.mp4" type="video/mp4">
+  <!-- Optional: provide smaller default first if your audience is bandwidth-limited -->
+  <!-- <source src="/assets/Pacific_AR_events.mp4" type="video/mp4"> -->
+  Sorry, your browser doesn’t support embedded videos.
+</video>
