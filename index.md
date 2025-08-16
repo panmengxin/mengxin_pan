@@ -33,33 +33,6 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
          alt="AR over Pacific example" 
          style="max-width: 90%; width: 90%; height: auto; min-width: 300px;">
 </div>
-    
-<!-- AR Video -->
-<div style="display: flex; justify-content: center; margin: 10px 0;">
-   <video 
-       width="90%" 
-       controls
-       autoplay
-       muted
-       loop
-       style="max-width: 1000px; height: auto; border-radius: 10px;">
-       <source src="https://github.com/panmengxin/mengxin_pan/blob/main/assets/Pacific_AR_events.mp4?raw=true" type="video/mp4">
-       Your browser does not support the video tag.
-   </video>
-</div>
-
-<video
-  controls
-  preload="metadata"
-  playsinline
-  style="max-width: 800px; width: 100%; height: auto; display:block; margin: 1rem auto;"
-  poster="/assets/cross_Pacific_AR.png">
-  <source src="/assets/Pacific_AR_events.mp4" type="video/mp4">
-  <!-- Optional: provide smaller default first if your audience is bandwidth-limited -->
-  <!-- <source src="/assets/Pacific_AR_events.mp4" type="video/mp4"> -->
-  Sorry, your browser doesn’t support embedded videos.
-</video>
-
 
     <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 10px 0;text-indent: 2em;text-align: justify;">Regarding ARs as the bridge, I study <strong>how large-scale climate variability</strong> modulates <strong>mid-latitude extreme weather</strong> in the warming climate. Utilizing machine learning algorithms, I develop AR detection algorithms, redefine the annual cycle of East Asia ARs, study the diversity of propagation behavior of cross-Pacific ARs, and explore if we have experienced more ARs under the ongoing climate change and its underly mechanisms.</p>
 
