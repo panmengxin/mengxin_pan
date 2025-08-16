@@ -46,10 +46,10 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
   preload="metadata"
   playsinline
   style="max-width: 800px; width: 100%; height: auto; display:block; margin: 1rem auto;"
-  poster="/assets/video_poster.jpg">
-  <source src="/assets/output_1080p.mp4" type="video/mp4">
+  poster="/assets/cross_Pacific_AR.png">
+  <source src="/assets/Pacific_AR_events.mp4" type="video/mp4">
   <!-- Optional: provide smaller default first if your audience is bandwidth-limited -->
-  <!-- <source src="/assets/output_720p.mp4" type="video/mp4"> -->
+  <!-- <source src="/assets/Pacific_AR_events.mp4" type="video/mp4"> -->
   Sorry, your browser doesn’t support embedded videos.
 </video>
 
