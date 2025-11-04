@@ -100,7 +100,7 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
 
     <h3 style="font-size: clamp(18px, 3vw, 18px); color: #444; margin: 5px 0;">How to Apply</h3>
     <ul style="font-size: clamp(16px, 3vw, 18px); line-height: 1.2; margin: 5px 0;">
-        <li style="margin-bottom: 5px;">Please send your <strong>CV, personal/research statement, and academic transcripts</strong> to <a href="mailto:mengxinp@sfu.ca" style="color: black;">mengxin_pan@sfu.ca</a>.</li>
+        <li style="margin-bottom: 5px;">Please send your <strong>CV, personal/research statement, and academic transcripts</strong> to <a href="mailto:mengxinp@sfu.ca" style="color: black;">mengxinp@sfu.ca</a>.</li>
         <li style="margin-bottom: 5px;">Prefer to admit students with prior connections, so early inquiries are strongly encouraged.</li>
         <li style="margin-bottom: 5px;">English proficiency scores or publications are not required for initial application.</li>
         <li style="margin-bottom: 5px;">Please email me as soon as possible if you are interested.</li>
