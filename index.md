@@ -16,7 +16,7 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
     alt="Dr. Mengxin Pan">
     </div>
 <!-- In your paragraph, link to it using #opportunities -->
-<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px;text-indent: 2em;text-align: justify;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Spring/Fall 2026</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada. Please email me if you are interested. See more details in <a href="#opportunities">opportunities</a>.</p>
+<p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px;text-indent: 2em;text-align: justify;">I am seeking Master's and Ph.D. students to join my <strong>"Climate and Weather Extremes Lab"</strong> in <strong>Fall 2026 or Spring/Fall 2027</strong>. Both Master's and PhD students have comprehensive funding support, covering tuition and living expenses in Vancouver, Canada. Please email me if you are interested. See more details in <a href="#opportunities">opportunities</a>.</p>
     
   <!-- Research Section -->
     <h2 style="font-size: clamp(20px, 4vw, 24px); color: #333; margin: 5px 0 10px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Research & Publications</h2>
@@ -49,7 +49,7 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
 <!-- Publications -->
 <div style="margin: 0 0;">
    <ul style="list-style-type: disc; margin: 5px 0; padding: 0;">
-       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> In press in npj Climate and Atmospheric Science </li>
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> npj Climate and Atmospheric Science 8.1 (2025): 307. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a> </li>
        
        <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></li>
        
@@ -78,12 +78,11 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
 <!-- Publications -->
 <div style="margin: 5px 0;">
    <ul style="list-style-type: disc; margin: 5px 0; padding: 0;">
-       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>A Machine Learning-based Dynamic SST Index for Long-lead Malaria Prediction in the Peruvian Amazon.</em> Submitted.</li>
-       
-       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>Superior predictive power of El Niño-Southern Oscillation in Colombia Malaria outbreak.</em> In prep.</li>
-       
-       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Wang, Y., Hu, S., & Au, F. T. K. <em>Extremely High Temperature Threatens Global Bridges under Climate Change.</em> In prep.</li>
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S., Janko, M, Zaitchik, B.,..., & Pan, W.K. <em>A Machine Learning-based Dynamic SST Index for Long-lead Malaria Prediction in the Peruvian Amazon.</em> GeoHealth 10.1 (2026): e2025GH001529. <a href="https://doi.org/10.1029/2025GH001529">[Link]</a></li>       
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S., Zaitchik, B., Tian, Y., Liu, L. & Pan, W.K.. <em>Expanding Amazon dry-hot season under anthropogenic climate change.</em> In prep.</li>
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Wang, Y., Hu, S., Gu, D. & Au, F. T. K. <em>Extremely High Temperature Threatens Global Bridges under Climate Change.</em> In prep.</li>
    </ul>
+  
 </div>
 
     <!-- Opportunities Section -->
