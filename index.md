@@ -1,6 +1,6 @@
 ---
 feature_text: |
-  <h2 style="color: white; font-size: clamp(20px, 4vw, 20px); text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
+  <h2 style="color: black; font-size: clamp(20px, 4vw, 20px); text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
 feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMRr.img?w=1200&h=400&m=6](https://earthsky.org/upl/2024/09/atmospheric-river_nasa-earth-observatory_24Sep2024.jpg](https://earthsky.org/upl/2024/09/atmospheric-river_nasa-earth-observatory_24Sep2024.jpg)"
 ---
 
