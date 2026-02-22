@@ -49,7 +49,7 @@ feature_image: "[https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sVMR
 <!-- Publications -->
 <div style="margin: 0 0;">
    <ul style="list-style-type: disc; margin: 5px 0; padding: 0;">
-       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> npj Climate and Atmospheric Science 8.1 (2025): 307. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a> </li>
+       <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Hu, S. Zaitchik, B. & Pan, W.K. <em>Contrasting Historical Trend of Atmospheric Rivers in the Northern Hemisphere.</em> npj Climate and Atmospheric Science 8.1 (2025): 307. <a href="https://www.nature.com/articles/s41612-025-01191-w">[Link]</a> </li>
        
        <li style="font-size: 16px; margin-bottom: 0; line-height: 1.2;"><strong>Pan, M.</strong>, Lu, M. & Lall, U. (2024). <em>Diversity of cross-Pacific Atmospheric River Main Routes.</em> Communications Earth & Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y">[Link]</a></li>
        
