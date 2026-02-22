@@ -1,7 +1,7 @@
 ---
 feature_text: |
   <h2 style="color: white; font-size: clamp(30px, 6vw, 30px); text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
-feature_image: "assets/atmosphericriver_vir2_20241020.jpg.pdf"
+feature_image: "[assets/atmosphericriver_vir2_20241020.jpg.pdf](https://github.com/panmengxin/mengxin_pan/blob/main/assets/atmosphericriver_vir2_20241020.jpg.pdf)"
 ---
 
 <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
