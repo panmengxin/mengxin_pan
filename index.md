@@ -1,6 +1,6 @@
 ---
 feature_text: |
-  <h2 style="color: black; font-size: clamp(20px, 4vw, 20px); text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
+  <h2 style="color: grey; font-size: clamp(20px, 4vw, 20px); text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
 feature_image: "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/153000/153486/atmosphericriver_vir2_20241020.jpg?w=720&h=480&fit=crop&crop=faces%2Cfocalpoint"
 ---
 
