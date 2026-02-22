@@ -1,7 +1,7 @@
 ---
 feature_text: |
   <h2 style="color: white; font-size: clamp(20px, 4vw, 20px); text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</h2>
-feature_image: "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/153000/153486/atmosphericriver_vir2_20241020.jpg?w=720&h=480&fit=crop&crop=faces%2Cfocalpoint"
+feature_image: "assets/atmosphericriver_vir2_20241020.jpg.pdf"
 ---
 
 <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
