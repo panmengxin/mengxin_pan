@@ -4,13 +4,6 @@ feature_text: |
 feature_image: "/assets/atmosphericriver_vir2_20241020.jpg"
 ---
 
-<!--
-  NOTE: The hero image above must be a real image file (.jpg/.png), NOT a .pdf,
-  and must live at /assets/. Rename your file from
-  "atmosphericriver_vir2_20241020.jpg.pdf" to "atmosphericriver_vir2_20241020.jpg".
-  Do NOT use a GitHub "blob" URL for the hero image — it will not render.
--->
-
 <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
 
     <!-- Profile Section -->
@@ -22,9 +15,8 @@ feature_image: "/assets/atmosphericriver_vir2_20241020.jpg"
             <!-- Quick links bar -->
             <p style="font-size: clamp(15px, 3vw, 17px); margin: 10px 10px;">
                 <a href="mailto:mengxinp@sfu.ca" target="_blank">Email</a> &nbsp;·&nbsp;
-                <a href="/assets/Mengxin_Pan_CV.pdf" target="_blank">CV</a> &nbsp;·&nbsp;
                 <a href="https://scholar.google.com/citations?user=4sB41lIAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;·&nbsp;
-                <a href="https://orcid.org/REPLACE-WITH-YOUR-ORCID" target="_blank">ORCID</a> &nbsp;·&nbsp;
+                <a href="https://orcid.org/0000-0002-7419-2856" target="_blank">ORCID</a> &nbsp;·&nbsp;
                 <a href="https://www.researchgate.net/profile/Pan-Mengxin-2" target="_blank">ResearchGate</a> &nbsp;·&nbsp;
                 <a href="https://www.linkedin.com/in/mengxin-pan-738bb9144/" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
                 <a href="https://www.sfu.ca/geography/about/our-people/profiles/Mengxin-Pan.html" target="_blank">SFU Profile</a>
@@ -35,7 +27,7 @@ feature_image: "/assets/atmosphericriver_vir2_20241020.jpg"
             alt="Dr. Mengxin Pan">
     </div>
 
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px; text-indent: 2em; text-align: justify;">I am seeking Master's and Ph.D. students to join my <strong>Climate and Weather Extremes Lab</strong> in <strong>Fall 2026 or Spring/Fall 2027</strong>. Both Master's and Ph.D. students receive comprehensive funding that covers tuition and living expenses in Vancouver, Canada. Please email me if you are interested — see more details under <a href="#opportunities">opportunities</a>.</p>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin-bottom: 5px; text-indent: 2em; text-align: justify;">I am seeking Master's and Ph.D. students to join my <strong>Climate and Weather Extremes Lab</strong> in <strong>Fall 2026 or Spring/Fall 2027</strong>. Both Master's and Ph.D. students receive comprehensive funding that covers tuition and living expenses in Vancouver, Canada. Please email me if you are interested — see more details under <a href="/people/#join">opportunities</a>.</p>
 
     <!-- News Section -->
     <h2 style="font-size: clamp(20px, 4vw, 24px); color: #333; margin: 20px 0 10px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">News</h2>
@@ -71,13 +63,7 @@ feature_image: "/assets/atmosphericriver_vir2_20241020.jpg"
              style="max-width: 48%; width: 100%; height: auto; min-width: 300px;">
     </div>
 
-    <ul style="list-style-type: disc; margin: 5px 0 5px 20px; padding: 0;">
-        <li style="font-size: 16px; margin-bottom: 4px; line-height: 1.3;"><strong>Pan, M.</strong>, Hu, S., Zaitchik, B. &amp; Pan, W.K. (2025). <em>Contrasting historical trends of atmospheric rivers in the Northern Hemisphere.</em> npj Climate and Atmospheric Science, 8(1), 307. <a href="https://www.nature.com/articles/s41612-025-01191-w" target="_blank">[Link]</a></li>
-        <li style="font-size: 16px; margin-bottom: 4px; line-height: 1.3;"><strong>Pan, M.</strong>, Lu, M. &amp; Lall, U. (2024). <em>Diversity of cross-Pacific atmospheric river main routes.</em> Communications Earth &amp; Environment, 5, 378. <a href="https://doi.org/10.1038/s43247-024-01552-y" target="_blank">[Link]</a></li>
-        <li style="font-size: 16px; margin-bottom: 4px; line-height: 1.3;"><strong>Pan, M.</strong> &amp; Lu, M. (2022). <em>Long-lead predictability of the western North Pacific subtropical high.</em> Journal of Geophysical Research: Atmospheres, 127(5), e2021JD035967. <a href="https://doi.org/10.1029/2021JD035967" target="_blank">[Link]</a></li>
-        <li style="font-size: 16px; margin-bottom: 4px; line-height: 1.3;"><strong>Pan, M.</strong> &amp; Lu, M. (2020). <em>East Asia atmospheric river catalog: annual cycle, transition mechanism, and precipitation.</em> Geophysical Research Letters, 47(15), e2020GL089477. <a href="https://doi.org/10.1029/2020GL089477" target="_blank">[Link]</a></li>
-        <li style="font-size: 16px; margin-bottom: 4px; line-height: 1.3;"><strong>Pan, M.</strong> &amp; Lu, M. (2019). <em>A novel atmospheric river identification algorithm.</em> Water Resources Research, 55(7). <a href="https://doi.org/10.1029/2018WR024407" target="_blank">[Link]</a></li>
-    </ul>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 5px 0;"><strong>Selected:</strong> Pan et al. (2025, <em>npj Climate and Atmospheric Science</em>); Pan, Lu &amp; Lall (2024, <em>Communications Earth &amp; Environment</em>); Pan &amp; Lu (2020, <em>Geophysical Research Letters</em>). &rarr; <a href="/publications/">See all publications</a>.</p>
 
     <h3 style="font-size: clamp(18px, 3vw, 20px); color: #444; margin: 15px 0 5px;">2. Climate change and society</h3>
 
@@ -92,31 +78,10 @@ feature_image: "/assets/atmosphericriver_vir2_20241020.jpg"
              style="max-width: 45%; width: 100%; height: auto; min-width: 300px;">
     </div>
 
-    <ul style="list-style-type: disc; margin: 5px 0 5px 20px; padding: 0;">
-        <li style="font-size: 16px; margin-bottom: 4px; line-height: 1.3;"><strong>Pan, M.</strong>, Hu, S., Janko, M., Zaitchik, B., …, &amp; Pan, W.K. (2026). <em>A machine-learning-based dynamic SST index for long-lead malaria prediction in the Peruvian Amazon.</em> GeoHealth, 10(1), e2025GH001529. <a href="https://doi.org/10.1029/2025GH001529" target="_blank">[Link]</a></li>
-        <li style="font-size: 16px; margin-bottom: 4px; line-height: 1.3;"><strong>Pan, M.</strong>, Hu, S., Zaitchik, B., Tian, Y., Liu, L. &amp; Pan, W.K. <em>Expanding Amazon dry-hot season under anthropogenic climate change.</em> <em>(In preparation.)</em></li>
-        <li style="font-size: 16px; margin-bottom: 4px; line-height: 1.3;"><strong>Pan, M.</strong>, Wang, Y., Hu, S., Gu, D. &amp; Au, F.T.K. <em>Extremely high temperatures threaten global bridges under climate change.</em> <em>(In preparation.)</em></li>
-    </ul>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 5px 0;"><strong>Selected:</strong> Pan et al. (2026, <em>GeoHealth</em>) on long-lead malaria prediction. &rarr; <a href="/publications/">See all publications</a>.</p>
 
     <!-- Opportunities Section -->
     <h2 id="opportunities" style="font-size: clamp(20px, 4vw, 24px); color: #333; margin: 20px 0 5px; padding-bottom: 8px; border-bottom: 2px solid #75bbfd;">Fully funded Master's and Ph.D. opportunities</h2>
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 5px 0 0; text-indent: 2em; text-align: justify;">The research theme is <strong>applied data science in climate science</strong>. Students from all climate-science and data-science backgrounds are welcome — including climate dynamics, atmospheric science, oceanography, physics, or related disciplines. Students from diverse backgrounds interested in interdisciplinary research are also welcome, including but not limited to statistics, global health, social science, and civil engineering.</p>
-
-    <h3 style="font-size: clamp(18px, 3vw, 20px); color: #444; margin: 15px 0 5px;">Qualifications</h3>
-    <ul style="font-size: clamp(16px, 3vw, 18px); line-height: 1.3; margin: 5px 0;">
-        <li style="margin-bottom: 5px;">Bachelor's degree (for Master's applicants) or Master's degree (for Ph.D. applicants);</li>
-        <li style="margin-bottom: 5px;">Strong interest in applied data science in climate science (programming and data-analysis proficiency preferred);</li>
-        <li style="margin-bottom: 5px;">Strong academic performance;</li>
-        <li style="margin-bottom: 5px;">Demonstrated self-motivation, independence, and critical-thinking ability.</li>
-    </ul>
-
-    <h3 style="font-size: clamp(18px, 3vw, 20px); color: #444; margin: 15px 0 5px;">How to apply</h3>
-    <ul style="font-size: clamp(16px, 3vw, 18px); line-height: 1.3; margin: 5px 0;">
-        <li style="margin-bottom: 5px;">Please send your <strong>CV, personal/research statement, and academic transcripts</strong> to <a href="mailto:mengxinp@sfu.ca">mengxinp@sfu.ca</a>.</li>
-        <li style="margin-bottom: 5px;">I prefer to admit students with prior contact, so early inquiries are strongly encouraged.</li>
-        <li style="margin-bottom: 5px;">English-proficiency scores and publications are not required for an initial inquiry.</li>
-        <li style="margin-bottom: 5px;">Please email me as early as possible if you are interested.</li>
-    </ul>
-    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 5px 0;">(See the <a href="https://www.sfu.ca/geography/prospective-students/prospective-graduate.html" target="_blank">application procedure</a> for more information.)</p>
+    <p style="font-size: clamp(16px, 3vw, 18px); line-height: 1.5; margin: 5px 0 0; text-indent: 2em; text-align: justify;">The Climate and Weather Extremes Lab is recruiting Master's and Ph.D. students for <strong>Fall 2026 or Spring/Fall 2027</strong>, with full funding (tuition and living expenses) in Vancouver, Canada. The research theme is <strong>applied data science in climate science</strong>, and students from climate-science, data-science, and interdisciplinary backgrounds are all welcome. &rarr; <a href="/people/#join">See qualifications and how to apply</a>.</p>
 
 </div>
