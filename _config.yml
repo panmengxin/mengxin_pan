@@ -39,15 +39,15 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+  username: ""              # was: DavidDarnes  (leave blank or your real handle)
+author: Mengxin Pan         # was: DavidDarnes
+social:
+  name: Mengxin Pan         # was: David Darnes
+  links:
+    - https://scholar.google.com/citations?user=4sB41lIAAAAJ&hl=en
+    - https://www.researchgate.net/profile/Pan-Mengxin-2
+    - https://www.linkedin.com/in/mengxin-pan-738bb9144/
+    - https://www.sfu.ca/geography/about/our-people/profiles/Mengxin-Pan.html
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/assets/atmosphericriver_vir2_20241020.jpg"   # was: /assets/default-social-image.png
   -
     scope:
       path: ""
@@ -123,26 +123,17 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
-
+- title: Publications
+  url: /#research--publications
+- title: Opportunities
+  url: /#opportunities
+# delete the Elements / Blog / Categories / Search / "Fork Alembic" items
 navigation_footer:
 - title: Created by Mengxin Pan
 
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+social_links:
+  LinkedIn: https://www.linkedin.com/in/mengxin-pan-738bb9144/
+  # add a Scholar/Email line if you like; delete the Twitter/GitHub/link/RSS lines you don't want
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
