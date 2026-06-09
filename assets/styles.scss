@@ -50,7 +50,8 @@ body {
 }
 
 .profile-photo {
-  flex: 0 1 23rem;
+  flex: 0 1 18rem;          /* was 23rem — smaller */
+  max-width: 18rem;
   border-radius: 8px;
   box-shadow: 0 0.25rem 0.75rem rgba(36, 46, 43, 0.18);
 }
@@ -99,7 +100,7 @@ body {
 }
 
 .research-gif img {
-  width: min(100%, 760px);
+  width: min(100%, 460px);   /* was 760px — smaller */
   border-radius: 6px;
 }
 
@@ -110,13 +111,13 @@ body {
   align-items: center;
   justify-items: center;
   margin: 0.7rem auto 1rem;
-  max-width: min(100%, 820px);
+  max-width: min(100%, 600px);   /* was 820px — tighter grid */
 }
 
 .research-figure-grid img {
   width: 100%;
-  max-width: 390px;
-  max-height: 230px;
+  max-width: 280px;     /* was 390px — smaller */
+  max-height: 180px;    /* was 230px — smaller */
   object-fit: contain;
 }
 
@@ -142,9 +143,9 @@ body {
 }
 
 .people-card img {
-  flex: 0 0 7rem;
-  width: 7rem;
-  max-width: 7rem;
+  flex: 0 0 5.5rem;     /* was 7rem — smaller student photos */
+  width: 5.5rem;
+  max-width: 5.5rem;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 8px;
@@ -181,9 +182,11 @@ body {
 }
 
 .home-profile-photo {
-  flex: 0 0 5rem;
-  width: 5rem;
-  max-width: 5rem;
+  flex: 0 0 7rem;        /* fixed, smaller headshot; lower this number to shrink further */
+  width: 7rem;
+  max-width: 7rem;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
   border-radius: 8px;
   box-shadow: 0 0.25rem 0.75rem rgba(36, 46, 43, 0.16);
 }
@@ -230,7 +233,7 @@ body {
 
   .research-figure-grid {
     grid-template-columns: 1fr;
-    max-width: min(100%, 390px);
+    max-width: min(100%, 280px);
   }
 
   .research-figure-grid img {
