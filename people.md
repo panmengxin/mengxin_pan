@@ -6,12 +6,10 @@ excerpt: "People in the Climate and Weather Extremes Lab at Simon Fraser Univers
 
 <div class="lab-page">
 
-<h2 class="section-title">Principal Investigator</h2>
-
 <div class="people-card">
   <img src="{{ '/assets/IMG_0099.jpg' | relative_url }}" alt="Mengxin Pan">
   <div>
-    <p><strong>Mengxin Pan</strong><br>Assistant Professor (PI) </p>
+    <p><strong>Mengxin Pan</strong><br>Assistant Professor (Principal Investigator) </p>
   </div>
 </div>
 
