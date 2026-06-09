@@ -5,6 +5,16 @@ styles: true
 
 @import "alembic";
 
+/* ======================================================================
+   Mengxin Pan — Climate and Weather Extremes Lab
+   Custom styling on top of the Alembic theme.
+   Accent colour: #75bbfd (sky blue)
+   ====================================================================== */
+
+$accent: #75bbfd;
+$ink: #2b3a36;
+$muted: #6f7f7a;
+
 body {
   line-height: 1.8;
 }
@@ -16,11 +26,33 @@ body {
   }
 }
 
-// This will affect all text in typeset areas
 .typeset {
   line-height: 1.8;
 }
 
+/* ---- Hero headline (feature banner) — doubled from 9–12px ------------- */
+.feature p {
+  font-size: clamp(18px, 4vw, 24px) !important;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+/* ---- Subtitles / section headings: 1.5x the body paragraph ----------- */
+.typeset h2,
+.typeset h3,
+.section-title {
+  font-size: 1.5em !important;
+  line-height: 1.3;
+}
+
+/* Name heading on the home page — slightly larger than subtitles */
+.home-profile-copy h2 {
+  font-size: 1.7em !important;
+  margin-bottom: 0.3rem;
+  color: $ink;
+}
+
+/* ---- Page width wrappers --------------------------------------------- */
 .lab-page {
   max-width: 1050px;
   margin: 0 auto;
@@ -31,6 +63,15 @@ body {
   max-width: 1180px;
 }
 
+/* ---- Section title: accent underline --------------------------------- */
+.section-title {
+  margin: 2rem 0 0.85rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid $accent;
+  color: $ink;
+}
+
+/* ---- Generic flex/grid helpers --------------------------------------- */
 .profile-grid,
 .media-grid,
 .people-card,
@@ -50,7 +91,7 @@ body {
 }
 
 .profile-photo {
-  flex: 0 1 18rem;          /* was 23rem — smaller */
+  flex: 0 1 18rem;
   max-width: 18rem;
   border-radius: 8px;
   box-shadow: 0 0.25rem 0.75rem rgba(36, 46, 43, 0.18);
@@ -59,40 +100,48 @@ body {
 .quick-links {
   margin: 0.6rem 0 0;
   font-size: 0.95rem;
+  color: $muted;
 }
 
-.section-title {
-  margin: 1.6rem 0 0.75rem;
-  padding-bottom: 0.35rem;
-  border-bottom: 2px solid #75bbfd;
-  font-size: clamp(0.75rem, 2vw, 1rem);
+/* ---- Home profile (photo left, info right; Shineng-Hu style) --------- */
+.home-profile {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin: 0.5rem 0 1.75rem;
 }
 
-.compact-list {
-  margin-top: 0.25rem;
+.home-profile-photo {
+  flex: 0 0 7rem;
+  width: 7rem;
+  max-width: 7rem;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 0.25rem 0.75rem rgba(36, 46, 43, 0.16);
 }
 
-.compact-list li {
-  margin-bottom: 0.45rem;
+.home-profile-copy {
+  flex: 1 1 22rem;
 }
 
-.publication-list {
-  list-style: none;
-  margin: 0.75rem 0 0;
-  padding: 0;
+.home-title {
+  margin: 0.25rem 0 0.4rem;
+  padding-top: 0;
+  line-height: 1.5;
 }
 
-.publication-list li {
-  margin-bottom: 0.9rem;
-  line-height: 1.45;
-}
-
+/* ---- Recruiting callout ---------------------------------------------- */
 .research-note {
-  padding: 0.85rem 1rem;
-  border-left: 4px solid #75bbfd;
+  padding: 0.85rem 1.1rem;
+  border-left: 4px solid $accent;
+  border-radius: 0 6px 6px 0;
   background: #f5fbff;
+  margin: 1.25rem 0;
 }
 
+/* ---- Research figures ------------------------------------------------- */
 .research-gif {
   display: flex;
   justify-content: center;
@@ -100,27 +149,30 @@ body {
 }
 
 .research-gif img {
-  width: min(100%, 460px);   /* was 760px — smaller */
+  width: min(100%, 460px);
   border-radius: 6px;
+  box-shadow: 0 0.25rem 0.75rem rgba(36, 46, 43, 0.14);
 }
 
 .research-figure-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.8rem;
+  gap: 1rem;
   align-items: center;
   justify-items: center;
-  margin: 0.7rem auto 1rem;
-  max-width: min(100%, 600px);   /* was 820px — tighter grid */
+  margin: 0.8rem auto 1.2rem;
+  max-width: min(100%, 600px);
 }
 
 .research-figure-grid img {
   width: 100%;
-  max-width: 280px;     /* was 390px — smaller */
-  max-height: 180px;    /* was 230px — smaller */
+  max-width: 280px;
+  max-height: 180px;
   object-fit: contain;
+  border-radius: 4px;
 }
 
+/* ---- Generic media grid ---------------------------------------------- */
 .media-grid {
   justify-content: center;
   margin: 0.75rem 0 1rem;
@@ -137,13 +189,14 @@ body {
   max-width: 92%;
 }
 
+/* ---- People cards ----------------------------------------------------- */
 .people-card {
-  align-items: flex-start;
-  margin: 0.8rem 0 1.3rem;
+  align-items: center;
+  margin: 0.9rem 0 1.4rem;
 }
 
 .people-card img {
-  flex: 0 0 5.5rem;     /* was 7rem — smaller student photos */
+  flex: 0 0 5.5rem;
   width: 5.5rem;
   max-width: 5.5rem;
   aspect-ratio: 1 / 1;
@@ -156,6 +209,46 @@ body {
   flex: 1 1 18rem;
 }
 
+.people-card p {
+  margin-bottom: 0.3rem;
+}
+
+/* ---- Publication list ------------------------------------------------- */
+.publication-list {
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0;
+}
+
+.publication-list li {
+  margin-bottom: 1.1rem;
+  padding-left: 1.4rem;
+  text-indent: -1.4rem;   /* hanging indent for wrapped reference lines */
+  line-height: 1.5;
+}
+
+/* Tidy "[Link] / [Preprint] / [Abstract]" into small pills */
+.publication-list a {
+  display: inline-block;
+  margin-left: 0.35rem;
+  padding: 0 0.55rem;
+  font-size: 0.82em;
+  line-height: 1.7;
+  border: 1px solid $accent;
+  border-radius: 999px;
+  background: #f5fbff;
+  color: #1c6fb8;
+  text-indent: 0;
+  background-image: none !important;
+  text-shadow: none !important;
+}
+
+.publication-list a:hover {
+  background: $accent;
+  color: #fff;
+}
+
+/* ---- Callout boxes ---------------------------------------------------- */
 .callout {
   padding: 1rem;
   border: 1px solid #d9ece8;
@@ -167,57 +260,20 @@ body {
   flex: 1 1 16rem;
 }
 
+.compact-list {
+  margin-top: 0.25rem;
+}
+
+.compact-list li {
+  margin-bottom: 0.45rem;
+}
+
 .article-meta {
-  color: #6f7f7a;
+  color: $muted;
   font-size: 0.9rem;
 }
 
-.home-profile {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 1.25rem;
-  justify-content: space-between;
-  margin: 0.5rem 0 1.5rem;
-}
-
-.home-profile-photo {
-  flex: 0 0 7rem;        /* fixed, smaller headshot; lower this number to shrink further */
-  width: 7rem;
-  max-width: 7rem;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
-  border-radius: 8px;
-  box-shadow: 0 0.25rem 0.75rem rgba(36, 46, 43, 0.16);
-}
-
-.home-profile-copy {
-  flex: 1 1 24rem;
-}
-
-.home-profile-copy h2 {
-  font-size: clamp(0.85rem, 2vw, 1.1rem);
-  margin-bottom: 0.25rem;
-}
-
-.home-title {
-  margin-bottom: 0.35rem;
-  padding-top: 0;
-  line-height: 1.45;
-}
-
-.mengxin-pan .typeset h1 {
-  font-size: clamp(0.95rem, 2.5vw, 1.25rem);
-}
-
-.mengxin-pan .typeset h2 {
-  font-size: clamp(0.75rem, 2vw, 1rem);
-}
-
-.mengxin-pan .feature .container {
-  min-height: 28vh;
-}
-
+/* ---- Responsive ------------------------------------------------------- */
 @media (max-width: 720px) {
   .media-grid img,
   .media-grid video,
