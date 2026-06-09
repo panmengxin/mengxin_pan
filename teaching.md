@@ -6,19 +6,12 @@ excerpt: "Teaching areas and future course information for Mengxin Pan at Simon 
 
 <div class="lab-page">
 
-<p>My teaching interests connect climate dynamics, weather and climate extremes, data science, and climate-change impacts. Course information and teaching materials will be added here as they become available.</p>
+<h2 class="section-title">GEOG 104 &mdash; Climate Change, Water and Society</h2>
 
-<h2 class="section-title">Teaching Areas</h2>
+<p>This introductory course examines the causes of climate change, its impacts on natural and human systems, and its connections to water, risk, adaptation, and mitigation. Students learn how climate change affects society through changes in extreme weather, water availability, ecosystems, infrastructure, and public decision-making.</p>
 
-<ul class="compact-list">
-  <li>Climate dynamics and atmospheric processes.</li>
-  <li>Weather and climate extremes under global warming.</li>
-  <li>Data science, machine learning, and statistical methods for climate applications.</li>
-  <li>Climate-change impacts, adaptation, and interdisciplinary climate-risk research.</li>
-</ul>
+<h2 class="section-title">GEOG 214 &mdash; Weather and Climate</h2>
 
-<h2 class="section-title">Mentoring</h2>
-
-<p>I mentor students interested in applied data science in climate science, especially projects involving atmospheric rivers, climate extremes, climate-health links, infrastructure impacts, and decision-relevant climate information. Prospective graduate students should visit the <a href="{{ '/opportunities/' | relative_url }}">Opportunities</a> page for current openings.</p>
+<p>This course introduces the fundamental principles and processes governing Earth&rsquo;s weather and climate. Topics include radiation, energy balance, the greenhouse effect, clouds, precipitation, atmospheric circulation, mid-latitude cyclones, thunderstorms, tornadoes, climate change, air pollution, and the ozone hole.</p>
 
 </div>
