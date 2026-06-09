@@ -1,0 +1,64 @@
+<div class="form form--search">
+  <form id="site-search-form" action="">
+    <label class="label" for="search">Search term:</label>
+    <input class="input" id="search" type="search" name="search" placeholder="e.g. atmospheric rivers" autocomplete="off" />
+
+    <ul class="list list--results" id="list">
+      <!-- results go here -->
+    </ul>
+  </form>
+</div>
+
+<script type="text/javascript" src="{{ '/assets/scripts/fetch.js' | relative_url }}"></script>
+<script type="text/javascript">
+  const endpoint = '{{ "/assets/search.json" | relative_url }}';
+  const pages = [];
+  const field = document.querySelector('#search');
+  const resultsList = document.querySelector('#list');
+
+  fetch(endpoint)
+    .then(blob => blob.json())
+    .then(data => {
+      pages.push(...data);
+      if (field.value) {
+        displayResults.call(field);
+      }
+    });
+
+  function findResults(termToMatch, pages) {
+    const cleanTerm = termToMatch.toLowerCase();
+    return pages.filter(item => {
+      const title = item.title || '';
+      const content = item.content || '';
+      return title.toLowerCase().includes(cleanTerm) || content.toLowerCase().includes(cleanTerm);
+    });
+  }
+
+  function displayResults() {
+    const resultsArray = findResults(this.value, pages);
+    const html = resultsArray.map(item => {
+      return `
+        <li class="item item--result">
+          <article class="article typeset">
+            <h4><a href="${item.url}">${item.title}</a></h4>
+            <p>${item.excerpt}</p>
+          </article>
+        </li>`;
+    }).join('');
+
+    if ((resultsArray.length === 0) || (this.value === '')) {
+      resultsList.innerHTML = '<p>Sorry, nothing was found.</p>';
+    } else {
+      resultsList.innerHTML = html;
+    }
+  }
+
+  field.addEventListener('input', displayResults);
+  field.addEventListener('keyup', displayResults);
+  field.addEventListener('keydown', function(event) {
+    if (event.key === 'Enter') {
+      event.preventDefault();
+    }
+  });
+</script>
+<noscript>Please enable JavaScript to use the search form.</noscript>
