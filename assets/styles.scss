@@ -74,6 +74,17 @@ body {
   margin-bottom: 0.45rem;
 }
 
+.publication-list {
+  list-style: none;
+  margin: 0.75rem 0 0;
+  padding: 0;
+}
+
+.publication-list li {
+  margin-bottom: 0.9rem;
+  line-height: 1.45;
+}
+
 .research-note {
   padding: 0.85rem 1rem;
   border-left: 4px solid #75bbfd;
@@ -98,11 +109,12 @@ body {
   align-items: center;
   justify-items: center;
   margin: 0.7rem auto 1rem;
-  max-width: 720px;
+  max-width: min(100%, 820px);
 }
 
 .research-figure-grid img {
   width: 100%;
+  max-width: 390px;
   max-height: 230px;
   object-fit: contain;
 }
@@ -165,8 +177,9 @@ body {
 }
 
 .home-profile-photo {
-  flex: 0 0 7rem;
-  max-width: 7rem;
+  flex: 0 0 5rem;
+  width: 5rem;
+  max-width: 5rem;
   border-radius: 8px;
   box-shadow: 0 0.25rem 0.75rem rgba(36, 46, 43, 0.16);
 }
@@ -213,5 +226,10 @@ body {
 
   .research-figure-grid {
     grid-template-columns: 1fr;
+    max-width: min(100%, 390px);
+  }
+
+  .research-figure-grid img {
+    max-width: 100%;
   }
 }
