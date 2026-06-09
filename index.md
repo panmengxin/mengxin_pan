@@ -9,8 +9,6 @@ excerpt: "Mengxin Pan is an Assistant Professor at Simon Fraser University and d
 <div class="lab-page">
 
 <div class="home-profile">
-  <img class="home-profile-photo" src="{{ '/assets/IMG_0099.jpg' | relative_url }}" alt="Dr. Mengxin Pan">
-
   <div class="home-profile-copy">
     <h2>Mengxin Pan</h2>
     <p class="home-title">Assistant Professor<br>Department of Geography<br>Simon Fraser University</p>
@@ -22,6 +20,8 @@ excerpt: "Mengxin Pan is an Assistant Professor at Simon Fraser University and d
       <a href="https://www.sfu.ca/geography/about/our-people/profiles/Mengxin-Pan.html" target="_blank">SFU Profile</a>
     </p>
   </div>
+
+  <img class="home-profile-photo" src="{{ '/assets/IMG_0099.jpg' | relative_url }}" alt="Dr. Mengxin Pan">
 </div>
 
 <p>I am an Assistant Professor in the <a href="https://www.sfu.ca/geography.html" target="_blank">Department of Geography</a> at <a href="https://www.sfu.ca" target="_blank">Simon Fraser University</a>, where I direct the <strong>Climate and Weather Extremes Lab</strong>. Before joining SFU, I was a postdoctoral associate at Duke University, where I worked on atmosphere-ocean interactions, climate dynamics, public health, and infrastructure resilience. I received my Ph.D. and M.Phil. from the Hong Kong University of Science and Technology, and my bachelor’s degree in civil engineering from Southeast University.</p>
