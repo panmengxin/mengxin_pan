@@ -64,6 +64,7 @@ body {
   margin: 1.6rem 0 0.75rem;
   padding-bottom: 0.35rem;
   border-bottom: 2px solid #75bbfd;
+  font-size: clamp(0.75rem, 2vw, 1rem);
 }
 
 .compact-list {
@@ -192,7 +193,7 @@ body {
 }
 
 .home-profile-copy h2 {
-  font-size: clamp(1.7rem, 4vw, 2.2rem);
+  font-size: clamp(0.85rem, 2vw, 1.1rem);
   margin-bottom: 0.25rem;
 }
 
@@ -203,11 +204,11 @@ body {
 }
 
 .mengxin-pan .typeset h1 {
-  font-size: clamp(1.9rem, 5vw, 2.5rem);
+  font-size: clamp(0.95rem, 2.5vw, 1.25rem);
 }
 
 .mengxin-pan .typeset h2 {
-  font-size: clamp(1.5rem, 4vw, 2rem);
+  font-size: clamp(0.75rem, 2vw, 1rem);
 }
 
 .mengxin-pan .feature .container {
