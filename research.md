@@ -1,8 +1,8 @@
 ---
-title: Research
+title: false
 permalink: /research/
 feature_text: |
-  Climate dynamics, atmospheric rivers, and applied data science
+  Facing climate change challenges with scientific knowledge and practical solutions
 feature_image: "/assets/AR_example.JPEG"
 excerpt: "Research in the Climate and Weather Extremes Lab focuses on climate and weather extremes, artificial intelligence, and societal applications."
 ---
