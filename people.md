@@ -6,6 +6,18 @@ excerpt: "People in the Climate and Weather Extremes Lab at Simon Fraser Univers
 
 <div class="lab-page">
 
+<h2 class="section-title">Principal Investigator</h2>
+
+<div class="people-card">
+  <img src="{{ '/assets/IMG_0099.jpg' | relative_url }}" alt="Mengxin Pan">
+  <div>
+    <p><strong>Mengxin Pan</strong><br>Assistant Professor (PI), 2025-</p>
+    <p>Research interest: climate and weather extremes; atmospheric rivers; applied data science in climate science.</p>
+  </div>
+</div>
+
+<h2 class="section-title">Graduate Students</h2>
+
 <div class="people-card">
   <img src="{{ '/assets/Bolan_yin.JPG' | relative_url }}" alt="Bolan Yin">
   <div>

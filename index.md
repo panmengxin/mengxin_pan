@@ -30,4 +30,6 @@ excerpt: "Mengxin Pan is an Assistant Professor at Simon Fraser University and d
 
 <p class="research-note">I am seeking <strong>Master's, Ph.D. students and UG students</strong> to join the Climate and Weather Extremes Lab. Both Master's and Ph.D. students receive comprehensive funding covering tuition and living expenses in Vancouver, Canada.</p>
 
+<p>More details can be found in <a href="{{ '/research/' | relative_url }}">Research</a>, <a href="{{ '/publications/' | relative_url }}">Publications</a>, <a href="{{ '/teaching/' | relative_url }}">Teaching</a> and <a href="{{ '/people/' | relative_url }}">People</a>.</p>
+
 </div>
