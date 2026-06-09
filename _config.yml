@@ -130,14 +130,8 @@ navigation_header:
   url: /publications/
 - title: People
   url: /people/
-- title: Opportunities
-  url: /opportunities/
 - title: Teaching
   url: /teaching/
-- title: Blog
-  url: /blog/
-- title: Search
-  url: /search/
 navigation_footer:
 - title: Created by Mengxin Pan
   url: /
