@@ -10,7 +10,7 @@ body { line-height: 1.6; }
 
 /* ---- Hero headline — large, overrides the inline 9-12px style -------- */
 .feature p {
-  font-size: 28px !important;
+  font-size: 24px !important;
   font-weight: 600;
   letter-spacing: 0.01em;
   line-height: 1.25 !important;
@@ -74,16 +74,16 @@ body { line-height: 1.6; }
 /* ==== RESEARCH: modest figures ====================================== */
 .research-gif { display: flex; justify-content: center; margin: 0.8rem 0 1.2rem; }
 .research-gif img {
-  width: 100%; max-width: 480px; border-radius: 6px;
+  width: 80%; max-width: 80%; border-radius: 6px;
   box-shadow: 0 0.25rem 0.75rem rgba(36,46,43,0.14);
 }
 .research-figure-grid {
   display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem; align-items: center; justify-items: center;
-  margin: 0.8rem auto 1.2rem; max-width: 640px;
+  margin: 0.8rem auto 1.2rem; max-width: 100%;
 }
 .research-figure-grid img {
-  width: 100%; max-width: 300px; max-height: 200px;
+  width: 100%; max-width: 100%; max-height: none;
   object-fit: contain; border-radius: 4px;
 }
 
@@ -111,3 +111,6 @@ body { line-height: 1.6; }
   .research-figure-grid { grid-template-columns: 1fr; max-width: 320px; }
   .research-figure-grid img { max-width: 100%; }
 }
+
+/* Center the home info block vertically against the photo */
+.home-profile { align-items: center; }

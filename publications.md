@@ -1,6 +1,10 @@
 ---
 title: Publications
 permalink: /publications/
+feature_text: |
+  <p style="color: white; font-size: clamp(9px, 2vw, 12px); text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</p>
+feature_image: "/assets/atmospheric_river_satellite.png"
+excerpt: "Publications from the Climate and Weather Extremes Lab at Simon Fraser University."
 ---
 
 <div class="lab-page lab-page--wide">

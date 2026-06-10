@@ -1,6 +1,5 @@
 ---
 title: Research
-hide_title: true
 permalink: /research/
 feature_text: |
   <p style="color: white; font-size: clamp(9px, 2vw, 12px); text-shadow: 2px 2px 4px black;">Facing climate change challenges with scientific knowledge and practical solutions</p>
@@ -12,7 +11,7 @@ excerpt: "Research in the Climate and Weather Extremes Lab focuses on climate an
 
 <p>Our lab studies climate and weather extremes through an interdisciplinary framework that integrates physical climate science, artificial intelligence, and societal applications. We are particularly interested in how long-term climate change reshapes day-to-day extreme weather events, and how improved scientific understanding can support adaptation and resilience.</p>
 
-<h2 id="extreme-weather-in-the-changing-climate" class="section-title">Extreme Weather In The Changing Climate</h2>
+<h2 id="extreme-weather-in-the-changing-climate" class="section-title">Extreme Weather in the Changing Climate</h2>
 
 <p><strong>Atmospheric rivers (ARs)</strong> &mdash; "the rivers in the sky" &mdash; are long, narrow, transient corridors of intense moisture transport in the atmosphere. They supply essential moisture to terrestrial ecosystems and human water resources, while the landfall of extreme ARs can also bring life-threatening weather.</p>
 
@@ -29,7 +28,7 @@ excerpt: "Research in the Climate and Weather Extremes Lab focuses on climate an
 
 <p><strong>Selected publications:</strong> Pan et al. (2025, <em>npj Climate and Atmospheric Science</em>); Pan, Lu &amp; Lall (2024, <em>Communications Earth &amp; Environment</em>); Pan &amp; Lu (2020, <em>Geophysical Research Letters</em>); Pan &amp; Lu (2019, <em>Water Resources Research</em>) &rarr; <a href="{{ '/publications/' | relative_url }}">See all publications</a>.</p>
 
-<h2 id="climate-change-and-adaptation" class="section-title">Climate Change And Adaptation</h2>
+<h2 id="climate-change-and-adaptation" class="section-title">Climate Change and Adaptation</h2>
 
 <p>Starting from climate dynamics, we lead interdisciplinary studies of climate impacts in a warming world that provide holistic understanding and practical climate solutions. With global-health collaborators, we explore the overlooked role of tropical oceans in vector-borne disease prediction. With civil-engineering collaborators, we investigate the resilience of bridges to extreme temperatures under global warming.</p>
 
