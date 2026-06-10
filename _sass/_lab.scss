@@ -1,0 +1,113 @@
+/* ======================================================================
+   Mengxin Pan — Climate and Weather Extremes Lab
+   Custom styles, loaded inline via _includes/site-styles.html
+   ====================================================================== */
+
+body { line-height: 1.6; }
+.content { line-height: 1.6; }
+.content p { margin-bottom: 1.4em; }
+.typeset { line-height: 1.7; }
+
+/* ---- Hero headline — large, overrides the inline 9-12px style -------- */
+.feature p {
+  font-size: clamp(26px, 5vw, 42px) !important;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  line-height: 1.25 !important;
+}
+
+/* ---- Subtitles / section headings: 1.5x the body paragraph ---------- */
+.typeset h2,
+.typeset h3,
+.section-title {
+  font-size: 1.5em !important;
+  line-height: 1.3 !important;
+}
+
+.home-profile-copy h2 {
+  font-size: 1.6em !important;
+  margin-bottom: 0.3rem;
+  color: #2b3a36;
+}
+
+/* ---- Page width wrappers -------------------------------------------- */
+.lab-page { max-width: 1050px; margin: 0 auto; padding: 0 1rem; }
+.lab-page--wide { max-width: 1180px; }
+
+.section-title {
+  margin: 2rem 0 0.85rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid #75bbfd;
+  color: #2b3a36;
+}
+
+/* ==== HOME: photo half the page width, info block the other half ===== */
+.home-profile {
+  display: flex; flex-wrap: wrap; align-items: flex-start;
+  gap: 1.5rem; margin: 0.5rem 0 1.75rem;
+}
+.home-profile-photo {
+  flex: 0 0 48%; width: 48%; max-width: 48%; height: auto;
+  border-radius: 8px; box-shadow: 0 0.25rem 0.75rem rgba(36,46,43,0.16);
+}
+.home-profile-copy { flex: 1 1 44%; }
+.home-title { margin: 0.25rem 0 0.4rem; padding-top: 0; line-height: 1.5; }
+.quick-links { margin: 0.6rem 0 0; font-size: 0.95rem; color: #6f7f7a; }
+
+.research-note {
+  padding: 0.85rem 1.1rem; border-left: 4px solid #75bbfd;
+  border-radius: 0 6px 6px 0; background: #f5fbff; margin: 1.25rem 0;
+}
+
+/* ==== PEOPLE: each photo half the page width, text the other half ==== */
+.people-card {
+  display: flex; flex-wrap: wrap; align-items: flex-start;
+  gap: 1.25rem; margin: 1rem 0 1.6rem;
+}
+.people-card img {
+  flex: 0 0 46%; width: 46%; max-width: 46%; height: auto;
+  border-radius: 8px; box-shadow: 0 0.25rem 0.75rem rgba(36,46,43,0.16);
+}
+.people-card div { flex: 1 1 44%; }
+.people-card p { margin-bottom: 0.3rem; }
+
+/* ==== RESEARCH: modest figures ====================================== */
+.research-gif { display: flex; justify-content: center; margin: 0.8rem 0 1.2rem; }
+.research-gif img {
+  width: 100%; max-width: 480px; border-radius: 6px;
+  box-shadow: 0 0.25rem 0.75rem rgba(36,46,43,0.14);
+}
+.research-figure-grid {
+  display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem; align-items: center; justify-items: center;
+  margin: 0.8rem auto 1.2rem; max-width: 640px;
+}
+.research-figure-grid img {
+  width: 100%; max-width: 300px; max-height: 200px;
+  object-fit: contain; border-radius: 4px;
+}
+
+/* ---- Publications --------------------------------------------------- */
+.publication-list { list-style: none; margin: 1rem 0 0; padding: 0; }
+.publication-list li {
+  margin-bottom: 1.1rem; padding-left: 1.4rem;
+  text-indent: -1.4rem; line-height: 1.5;
+}
+.publication-list a {
+  display: inline-block; margin-left: 0.35rem; padding: 0 0.55rem;
+  font-size: 0.82em; line-height: 1.7; border: 1px solid #75bbfd;
+  border-radius: 999px; background: #f5fbff; color: #1c6fb8;
+  text-indent: 0; background-image: none !important; text-shadow: none !important;
+}
+.publication-list a:hover { background: #75bbfd; color: #fff; }
+
+.callout { padding: 1rem; border: 1px solid #d9ece8; border-radius: 8px; background: #fbfefe; }
+.article-meta { color: #6f7f7a; font-size: 0.9rem; }
+
+/* ---- Responsive: stack on phones ------------------------------------ */
+@media (max-width: 720px) {
+  .home-profile-photo,
+  .people-card img { flex-basis: 100%; width: 100%; max-width: 100%; }
+  .research-figure-grid { grid-template-columns: 1fr; max-width: 320px; }
+  .research-figure-grid img { max-width: 100%; }
+}
