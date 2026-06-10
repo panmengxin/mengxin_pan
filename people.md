@@ -20,7 +20,6 @@ excerpt: "People in the Climate and Weather Extremes Lab at Simon Fraser Univers
   <div>
     <p><strong>Bolan Yin</strong><br>PhD student, 2026-</p>
     <p>Mphil and BSc in Atmospheric Science at Nanjing University of Information Science & Technology.</p>
-    <p>BSc in Atmospheric Science at NUIST.</p>
     <p>Research interest: mid-latitude extreme precipitation; atmospheric river.</p>
   </div>
 </div>

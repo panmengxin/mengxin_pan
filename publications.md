@@ -12,7 +12,7 @@ excerpt: "Publications from the Climate and Weather Extremes Lab at Simon Fraser
 <p>
   See also my
   <a href="https://scholar.google.com/citations?user=4sB41lIAAAAJ&hl=en" target="_blank">Google Scholar</a>
-  profile for the most up-to-date list and citation metrics.
+  profile for the most up-to-date list.
 </p>
 
 <ul class="publication-list">
