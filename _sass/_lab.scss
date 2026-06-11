@@ -106,10 +106,40 @@ body { line-height: 1.6; }
 
 /* ---- Responsive: stack on phones ------------------------------------ */
 @media (max-width: 720px) {
-  .home-profile-photo,
-  .people-card img { flex-basis: 100%; width: 100%; max-width: 100%; }
-  .research-figure-grid { grid-template-columns: 1fr; max-width: 320px; }
-  .research-figure-grid img { max-width: 100%; }
+  /* tighter page gutters */
+  .lab-page, .lab-page--wide { padding: 0 0.9rem; }
+
+  /* slightly larger, comfortable body text */
+  .main { font-size: 17px; line-height: 1.65; }
+
+  /* hero headline uses more of the screen width */
+  .feature .container { max-width: 92%; }
+  .feature p { font-size: 18px !important; }
+
+  /* HOME: stack with a centered, capped photo above the info */
+  .home-profile {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1rem;
+  }
+  .home-profile-photo { flex: 0 0 auto; width: 190px; max-width: 60%; }
+  .home-profile-copy { flex: 1 1 100%; }
+  .quick-links { line-height: 2; }
+
+  /* PEOPLE: keep photo beside text but compact */
+  .people-card { gap: 0.9rem; align-items: flex-start; }
+  .people-card img { flex: 0 0 110px; width: 110px; max-width: 110px; }
+  .people-card div { flex: 1 1 55%; }
+  .people-card strong { font-size: 20px; }
+
+  /* RESEARCH: figures full width, single column */
+  .research-gif img { width: 100%; max-width: 100%; }
+  .research-figure-grid { grid-template-columns: 1fr; max-width: 360px; gap: 0.8rem; }
+  .research-figure-grid img { max-width: 100%; max-height: none; }
+
+  /* buttons span the row for easy tapping */
+  .btn { display: block; text-align: center; margin: 0.45rem 0; }
 }
 
 /* Center the home info block vertically against the photo */
