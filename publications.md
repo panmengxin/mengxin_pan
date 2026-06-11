@@ -29,6 +29,7 @@ excerpt: "Publications from the Climate and Weather Extremes Lab at Simon Fraser
   <li>
     <strong>Pan, M.</strong>, Hu, S., Zaitchik, B.F. &amp; Pan, W.K. (2025). <em>Contrasting historical trends of atmospheric rivers in the Northern Hemisphere.</em> npj Climate and Atmospheric Science, 8, 307.
     <a href="https://www.nature.com/articles/s41612-025-01191-w" target="_blank">[Link]</a>
+    <a href="https://github.com/panmengxin/AR_database" target="_blank">[Data]</a>
   </li>
 
   <li>

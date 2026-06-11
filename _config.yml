@@ -128,6 +128,8 @@ navigation_header:
   url: /research/
 - title: Publications
   url: /publications/
+- title: Data
+  url: /data/
 - title: People
   url: /people/
 - title: Teaching

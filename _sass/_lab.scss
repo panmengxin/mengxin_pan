@@ -117,3 +117,34 @@ body { line-height: 1.6; }
 
 /* People page: larger names */
 .people-card strong { font-size: 24px; line-height: 1.3; }
+
+/* ---- Buttons & data callout ----------------------------------------- */
+.btn {
+  display: inline-block;
+  margin: 0.3rem 0.45rem 0.3rem 0;
+  padding: 0.35rem 0.95rem;
+  border-radius: 6px;
+  background: #75bbfd;
+  color: #fff !important;
+  font-size: 0.95rem;
+  text-decoration: none;
+  background-image: none !important;
+  text-shadow: none !important;
+}
+.btn:hover { background: #4f9fe0; color: #fff !important; }
+.btn--ghost { background: #f5fbff; color: #1c6fb8 !important; border: 1px solid #75bbfd; }
+.btn--ghost:hover { background: #e8f4fe; color: #1c6fb8 !important; }
+
+.data-callout {
+  border: 1px solid #cfe6fb;
+  border-left: 4px solid #75bbfd;
+  border-radius: 8px;
+  background: #f5fbff;
+  padding: 1rem 1.2rem;
+  margin: 1.5rem 0;
+}
+.data-callout h3 { margin-top: 0.2rem; }
+.data-callout p:last-child { margin-bottom: 0.2rem; }
+
+.data-specs { margin: 0.5rem 0 1rem; }
+.data-specs li { margin-bottom: 0.3rem; }

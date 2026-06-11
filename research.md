@@ -28,6 +28,15 @@ excerpt: "Research in the Climate and Weather Extremes Lab focuses on climate an
 
 <p><strong>Selected publications:</strong> Pan et al. (2025, <em>npj Climate and Atmospheric Science</em>); Pan, Lu &amp; Lall (2024, <em>Communications Earth &amp; Environment</em>); Pan &amp; Lu (2020, <em>Geophysical Research Letters</em>); Pan &amp; Lu (2019, <em>Water Resources Research</em>) &rarr; <a href="{{ '/publications/' | relative_url }}">See all publications</a>.</p>
 
+<div class="data-callout">
+  <h3>Open data: Northern Hemisphere Atmospheric River Database</h3>
+  <p>A 6-hourly, 1&deg;&times;1&deg; AR catalog for 1950&ndash;2022, built with the Pan&ndash;Lu algorithm and released with our <em>npj Climate and Atmospheric Science</em> (2025) paper.</p>
+  <p>
+    <a class="btn" href="{{ '/data/' | relative_url }}">Database details</a>
+    <a class="btn btn--ghost" href="https://github.com/panmengxin/AR_database" target="_blank">GitHub</a>
+  </p>
+</div>
+
 <h2 id="climate-change-and-adaptation" class="section-title">Climate Change and Adaptation</h2>
 
 <p>Starting from climate dynamics, we lead interdisciplinary studies of climate impacts in a warming world that provide holistic understanding and practical climate solutions. With global-health collaborators, we explore the overlooked role of tropical oceans in vector-borne disease prediction. With civil-engineering collaborators, we investigate the resilience of bridges to extreme temperatures under global warming.</p>
